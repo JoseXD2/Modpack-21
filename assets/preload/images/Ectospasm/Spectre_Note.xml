@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Spectre_Note.png"><SubTexture name="blue0000" x="0" y="0" width="161" height="213" frameX="0" frameY="-1" frameWidth="164" frameHeight="265" />
+<SubTexture name="purple0000" x="161" y="0" width="162" height="213" frameX="-1" frameY="-1" frameWidth="164" frameHeight="264" />
+<SubTexture name="red0000" x="323" y="0" width="163" height="213" frameX="0" frameY="-1" frameWidth="164" frameHeight="265" />
+<SubTexture name="green0000" x="0" y="213" width="161" height="213" frameX="0" frameY="-1" frameWidth="164" frameHeight="265" />
+</TextureAtlas>

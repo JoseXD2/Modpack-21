@@ -1,0 +1,32 @@
+{
+	"storyName": "(^)                               .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "expungedgod",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"god-unfairness-b",
+			"god_unfair_bambi",
+			[
+				10,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "godpunged"
+}

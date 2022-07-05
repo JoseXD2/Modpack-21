@@ -1,0 +1,26 @@
+{
+	"storyName": "Spooky Month                           .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "spookykids",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Shiver",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"weekName": "Week 2 I lve this"
+}

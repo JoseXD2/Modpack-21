@@ -1,0 +1,77 @@
+{
+	"storyName": "gapple part 2                          .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "gapple2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Deformation",
+			"trix",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Wireframe",
+			"wire",
+			[
+				100,
+				0,
+				60
+			]
+		],
+		[
+			"the-big-dingle",
+			"dingle-donk-duo",
+			[
+				80,
+				20,
+				180
+			]
+		],
+		[
+			"recovered-project",
+			"recovered",
+			[
+				235,
+				235,
+				235
+			]
+		],
+		[
+			"og",
+			"prealpha",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"collision",
+			"diamond",
+			[
+				0,
+				160,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "gapple2222"
+}

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darnell-uber.png"><SubTexture name="Darnell Idle0000" x="0" y="1105" width="445" height="421" frameX="0" frameY="-23" frameWidth="447" frameHeight="450" />
+<SubTexture name="DarnellBurn0000" x="790" y="554" width="430" height="427" frameX="0" frameY="-72" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0001" x="0" y="554" width="790" height="551" frameX="-1" frameY="-17" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0002" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0003" x="789" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0004" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0005" x="0" y="554" width="790" height="551" frameX="-1" frameY="-17" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0006" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0007" x="789" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0008" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0009" x="0" y="554" width="790" height="551" frameX="-1" frameY="-17" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0010" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0011" x="789" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0012" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0013" x="0" y="554" width="790" height="551" frameX="-1" frameY="-17" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0014" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0015" x="789" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0016" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0017" x="0" y="554" width="790" height="551" frameX="-1" frameY="-17" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0018" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0019" x="789" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0020" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0021" x="0" y="554" width="790" height="551" frameX="-1" frameY="-17" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0022" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0023" x="789" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0024" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0025" x="0" y="554" width="790" height="551" frameX="-1" frameY="-17" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0026" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0027" x="789" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+<SubTexture name="DarnellBurn0028" x="0" y="0" width="789" height="554" frameX="-2" frameY="-14" frameWidth="889" frameHeight="620" />
+</TextureAtlas>

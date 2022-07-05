@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-145
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "allanyalt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-143
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "allanyalt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-151
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "allanyalt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-143
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "allanyalt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-142
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "allanyalt right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "miss",
+			"indices": [],
+			"name": "allanyalt miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/allanyalt",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "allany",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-160,
+		100
+	],
+	"sing_duration": 2,
+	"scale": 1.2
+}

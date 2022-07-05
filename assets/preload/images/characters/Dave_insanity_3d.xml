@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dave_insanity_3d.png"><SubTexture name="DaveAngry idle dance0000" x="1725" y="0" width="428" height="908" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry idle dance0001" x="875" y="0" width="444" height="911" frameX="-158" frameY="-83" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry idle dance0002" x="0" y="925" width="421" height="908" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note DOWN0000" x="0" y="0" width="434" height="925" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note DOWN0001" x="434" y="0" width="441" height="918" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note LEFT0000" x="421" y="925" width="464" height="908" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note LEFT0001" x="885" y="925" width="466" height="908" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note RIGHT0000" x="1351" y="925" width="442" height="908" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note RIGHT0001" x="2153" y="0" width="438" height="908" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note UP0000" x="1319" y="0" width="406" height="909" frameX="-158" frameY="-85" frameWidth="796" frameHeight="1100" />
+<SubTexture name="DaveAngry Sing Note UP0001" x="2153" y="908" width="415" height="908" frameX="-158" frameY="-86" frameWidth="796" frameHeight="1100" />
+</TextureAtlas>

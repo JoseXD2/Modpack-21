@@ -1,0 +1,10 @@
+change the name of ripplenotes.png anything fuckin random
+then
+change the name of ripplenotesb.png to just ripplenotes.png and tada it works
+and to undo it
+change ripplenotesb.png's name back to well ripplenotesb.png
+and
+change the name of original ripplenotes.png to its normal name insted of whatever shit you named it
+
+and if you deleted the original picture of ripplenotes
+theres a backup image in mods/custom_notetypes 

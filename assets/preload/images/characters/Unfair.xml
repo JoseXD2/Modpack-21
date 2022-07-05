@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Unfair.png"><SubTexture name="Expunged Down0000" x="1097" y="2039" width="934" height="771" frameX="0" frameY="-12" frameWidth="934" frameHeight="783" />
+<SubTexture name="Expunged Down0001" x="2633" y="921" width="913" height="780" frameX="-10" frameY="-3" frameWidth="934" frameHeight="783" />
+<SubTexture name="Expunged Idle0000" x="881" y="1090" width="833" height="924" frameX="0" frameY="-32" frameWidth="833" frameHeight="957" />
+<SubTexture name="Expunged Left0000" x="0" y="2039" width="1097" height="913" frameX="0" frameY="-15" frameWidth="1097" frameHeight="929" />
+<SubTexture name="Expunged Left0001" x="2633" y="0" width="1064" height="921" frameX="-26" frameY="-7" frameWidth="1097" frameHeight="929" />
+<SubTexture name="Expunged Right0000" x="0" y="0" width="906" height="1090" frameX="-6" frameY="0" frameWidth="912" frameHeight="1100" />
+<SubTexture name="Expunged Right0001" x="906" y="0" width="835" height="1074" frameX="-15" frameY="-26" frameWidth="912" frameHeight="1100" />
+<SubTexture name="Expunged Up0000" x="0" y="1090" width="881" height="949" frameX="-3" frameY="-4" frameWidth="896" frameHeight="953" />
+<SubTexture name="Expunged Up0001" x="1741" y="0" width="892" height="953" frameX="0" frameY="0" frameWidth="896" frameHeight="953" />
+</TextureAtlas>

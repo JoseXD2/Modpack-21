@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "smile"
+		},
+		{
+			"offsets": [
+				-6,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "talk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ban",
+	"position": [
+		160,
+		340
+	],
+	"healthicon": "ban",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		180,
+		20
+	],
+	"camera_position": [
+		-70,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

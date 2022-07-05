@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="algebraicaitrix.png"><SubTexture name="DOWN0000" x="1378" y="1248" width="715" height="985" frameX="0" frameY="0" frameWidth="715" frameHeight="985" />
+<SubTexture name="DOWN0001" x="2093" y="1248" width="715" height="985" frameX="0" frameY="0" frameWidth="715" frameHeight="985" />
+<SubTexture name="DOWN0002" x="2093" y="1248" width="715" height="985" frameX="0" frameY="0" frameWidth="715" frameHeight="985" />
+<SubTexture name="DOWN0003" x="1378" y="1248" width="715" height="985" frameX="0" frameY="0" frameWidth="715" frameHeight="985" />
+<SubTexture name="IDLE0000" x="0" y="2246" width="805" height="980" frameX="0" frameY="0" frameWidth="805" frameHeight="980" />
+<SubTexture name="LEFT0000" x="805" y="2246" width="874" height="851" frameX="-1" frameY="0" frameWidth="875" frameHeight="851" />
+<SubTexture name="LEFT0001" x="1679" y="2246" width="875" height="851" frameX="0" frameY="0" frameWidth="875" frameHeight="851" />
+<SubTexture name="LEFT0002" x="1679" y="2246" width="875" height="851" frameX="0" frameY="0" frameWidth="875" frameHeight="851" />
+<SubTexture name="LEFT0003" x="805" y="2246" width="874" height="851" frameX="0" frameY="0" frameWidth="875" frameHeight="851" />
+<SubTexture name="RIGHT0000" x="1866" y="0" width="1378" height="998" frameX="0" frameY="0" frameWidth="1378" frameHeight="998" />
+<SubTexture name="RIGHT0001" x="1866" y="0" width="1378" height="998" frameX="0" frameY="0" frameWidth="1378" frameHeight="998" />
+<SubTexture name="RIGHT0002" x="1866" y="0" width="1378" height="998" frameX="0" frameY="0" frameWidth="1378" frameHeight="998" />
+<SubTexture name="RIGHT0003" x="0" y="1248" width="1378" height="998" frameX="0" frameY="0" frameWidth="1378" frameHeight="998" />
+<SubTexture name="UP0000" x="0" y="0" width="933" height="1248" frameX="0" frameY="0" frameWidth="933" frameHeight="1248" />
+<SubTexture name="UP0001" x="933" y="0" width="933" height="1248" frameX="0" frameY="0" frameWidth="933" frameHeight="1248" />
+<SubTexture name="UP0002" x="933" y="0" width="933" height="1248" frameX="0" frameY="0" frameWidth="933" frameHeight="1248" />
+<SubTexture name="UP0003" x="0" y="0" width="933" height="1248" frameX="0" frameY="0" frameWidth="933" frameHeight="1248" />
+</TextureAtlas>

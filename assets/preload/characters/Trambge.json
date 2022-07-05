@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				710
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Trambge Idle"
+		},
+		{
+			"offsets": [
+				131,
+				666
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Trambge Up"
+		},
+		{
+			"offsets": [
+				232,
+				700
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Trambge Left"
+		},
+		{
+			"offsets": [
+				59,
+				688
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Trambge Right"
+		},
+		{
+			"offsets": [
+				162,
+				758
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Trambge Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trambge",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Trambge",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		12,
+		12
+	],
+	"camera_position": [
+		60,
+		-620
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

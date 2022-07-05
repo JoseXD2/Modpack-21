@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				400
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Expunged Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				210
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Expunged Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				370
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Expunged Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				560
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Expunged Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				420
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Expunged Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-139,
+				400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "expungedlipsync",
+			"indices": [],
+			"name": "expungedlipsync"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Unfair",
+	"position": [
+		160,
+		-160
+	],
+	"healthicon": "expunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

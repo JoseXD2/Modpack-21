@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				71
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rosanna idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rosanna down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rosanna left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-45
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rosanna right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				198
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rosanna up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				71
+			],
+			"anim": "ara ara",
+			"fps": 30,
+			"name": "rosanna ara ara",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rosie_assets",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "Rosanna",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		136,
+		215
+	],
+	"camera_position": [
+		200,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

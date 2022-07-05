@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_bunzo_assets.png"><SubTexture name="bf down0000" x="0" y="0" width="731" height="623" frameX="-101" frameY="-9" frameWidth="834" frameHeight="724" />
+<SubTexture name="bf down0001" x="731" y="0" width="712" height="614" frameX="-118" frameY="-7" frameWidth="834" frameHeight="724" />
+<SubTexture name="bf down0002" x="0" y="623" width="696" height="601" frameX="-129" frameY="-3" frameWidth="834" frameHeight="724" />
+<SubTexture name="bf down0003" x="0" y="2268" width="462" height="411" frameX="-361" frameY="0" frameWidth="834" frameHeight="724" />
+<SubTexture name="bf idle0000" x="2486" y="2679" width="498" height="376" frameX="0" frameY="-12" frameWidth="498" frameHeight="388" />
+<SubTexture name="bf idle0001" x="3184" y="0" width="496" height="374" frameX="0" frameY="-14" frameWidth="498" frameHeight="388" />
+<SubTexture name="bf idle0002" x="1993" y="2679" width="493" height="377" frameX="-2" frameY="-11" frameWidth="498" frameHeight="388" />
+<SubTexture name="bf idle0003" x="1503" y="2679" width="490" height="383" frameX="-4" frameY="-5" frameWidth="498" frameHeight="388" />
+<SubTexture name="bf idle0004" x="1015" y="2679" width="488" height="387" frameX="-5" frameY="-1" frameWidth="498" frameHeight="388" />
+<SubTexture name="bf left0000" x="2131" y="521" width="1053" height="516" frameX="-81" frameY="-13" frameWidth="1143" frameHeight="611" />
+<SubTexture name="bf left0001" x="0" y="1752" width="1054" height="516" frameX="-81" frameY="-13" frameWidth="1143" frameHeight="611" />
+<SubTexture name="bf left0002" x="2131" y="1037" width="1051" height="509" frameX="-87" frameY="-13" frameWidth="1143" frameHeight="611" />
+<SubTexture name="bf left0003" x="462" y="2268" width="489" height="411" frameX="-654" frameY="-13" frameWidth="1143" frameHeight="611" />
+<SubTexture name="bf miss0000" x="1054" y="1752" width="514" height="413" frameX="-3" frameY="0" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf miss0001" x="1568" y="1752" width="513" height="413" frameX="0" frameY="0" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf miss0002" x="2081" y="1752" width="515" height="413" frameX="-5" frameY="0" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf miss0003" x="951" y="2268" width="515" height="411" frameX="-6" frameY="-2" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf miss0004" x="1982" y="2268" width="516" height="410" frameX="-7" frameY="-3" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf miss0005" x="1466" y="2268" width="516" height="411" frameX="-4" frameY="-2" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf miss0006" x="2498" y="2268" width="515" height="410" frameX="-4" frameY="-3" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf miss0007" x="0" y="2679" width="515" height="410" frameX="-4" frameY="-3" frameWidth="523" frameHeight="413" />
+<SubTexture name="bf right0000" x="0" y="1224" width="1057" height="528" frameX="-11" frameY="-2" frameWidth="1155" frameHeight="613" />
+<SubTexture name="bf right0001" x="1057" y="1224" width="1056" height="528" frameX="-12" frameY="-2" frameWidth="1155" frameHeight="613" />
+<SubTexture name="bf right0002" x="2131" y="0" width="1053" height="521" frameX="-8" frameY="-2" frameWidth="1155" frameHeight="613" />
+<SubTexture name="bf right0003" x="515" y="2679" width="500" height="410" frameX="0" frameY="-2" frameWidth="1155" frameHeight="613" />
+<SubTexture name="bf up0000" x="696" y="623" width="699" height="600" frameX="0" frameY="0" frameWidth="775" frameHeight="672" />
+<SubTexture name="bf up0001" x="1443" y="0" width="688" height="587" frameX="0" frameY="-2" frameWidth="775" frameHeight="672" />
+<SubTexture name="bf up0002" x="1443" y="587" width="681" height="578" frameX="-1" frameY="-4" frameWidth="775" frameHeight="672" />
+<SubTexture name="bf up0003" x="2596" y="1752" width="456" height="412" frameX="-1" frameY="-6" frameWidth="775" frameHeight="672" />
+</TextureAtlas>

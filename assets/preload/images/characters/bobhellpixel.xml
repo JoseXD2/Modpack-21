@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bobhellpixel.png"><SubTexture name="SENPAI UP NOTE instance 0000" x="0" y="0" width="36" height="50" frameX="-45" frameY="-86" frameWidth="124" frameHeight="163" />
+<SubTexture name="SENPAI RIGHT NOTE instance 0000" x="0" y="0" width="36" height="50" frameX="-45" frameY="-86" frameWidth="124" frameHeight="163" />
+<SubTexture name="SENPAI LEFT NOTE instance 0000" x="0" y="0" width="36" height="50" frameX="-45" frameY="-86" frameWidth="124" frameHeight="163" />
+<SubTexture name="Senpai Idle instance 0000" x="0" y="0" width="36" height="50" frameX="-45" frameY="-86" frameWidth="124" frameHeight="163" />
+<SubTexture name="SENPAI DOWN NOTE instance 0000" x="0" y="0" width="36" height="50" frameX="-45" frameY="-86" frameWidth="124" frameHeight="163" />
+</TextureAtlas>

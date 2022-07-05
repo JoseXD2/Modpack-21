@@ -1,0 +1,68 @@
+{
+	"storyName": "bambi and expunged fan songs                   .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bambitrack",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Popcorn",
+			"bambi",
+			[
+				120,
+				180,
+				0
+			]
+		],
+		[
+			"memories",
+			"bambiold",
+			[
+				0,
+				80,
+				20
+			]
+		],
+		[
+			"overthink",
+			"overthink",
+			[
+				0,
+				255,
+				20
+			]
+		],
+		[
+			"potent",
+			"potent",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"cheating remake",
+			"bambi_3d",
+			[
+				0,
+				195,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "tracvks"
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "Too-slow                           .",
+	"difficulties": "Hard, D-Side",
+	"hideFreeplay": false,
+	"weekBackground": "Too-slow",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Too-slow",
+			"sonic-copy",
+			[
+				60,
+				60,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "slowest",
+	"hiddenUntilUnlocked": false
+}

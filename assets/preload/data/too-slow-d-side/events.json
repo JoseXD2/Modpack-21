@@ -1,0 +1,399 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sonicstage",
+		"player1": "bfd",
+		"player2": "Sonic_fake",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				156.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.6",
+						"1"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"BlackOut",
+						"true",
+						" "
+					]
+				]
+			],
+			[
+				32500,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				33750,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				34609.375,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				34988.28125,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				35000,
+				[
+					[
+						"BlackOut",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"Change Character",
+						"1",
+						"mightyline"
+					]
+				]
+			],
+			[
+				94765.625,
+				[
+					[
+						"ShowHud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94921.875,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				103437.5,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				103515.625,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				103750,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				103906.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104062.5,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104218.75,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104453.125,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104687.5,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105078.125,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105156.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105234.375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				136140.625,
+				[
+					[
+						"Play Animation",
+						"prepping",
+						"sonic"
+					]
+				]
+			],
+			[
+				136250,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				136458.984375,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				136685.546875,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				136917.96875,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				137083.984375,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				137500,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				137890.625,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138281.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138359.375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138750,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138828.125,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138906.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138984.375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "BloodSplash",
+		"validScore": false,
+		"gfVersion": "gfd",
+		"bpm": 192,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "too-slowd"
+	}
+}

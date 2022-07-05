@@ -1,0 +1,58 @@
+{
+	"storyName": "mr. bambi's fun corn maze!                   .",
+	"difficulties": "hard, flip",
+	"hideFreeplay": false,
+	"weekBackground": "bambi",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"blocked",
+			"bambifree",
+			[
+				80,
+				160,
+				0
+			]
+		],
+		[
+			"corn-theft",
+			"bambifree",
+			[
+				80,
+				160,
+				0
+			]
+		],
+		[
+			"maze",
+			"bambifree",
+			[
+				80,
+				160,
+				0
+			]
+		],
+		[
+			"mealie",
+			"bambifree",
+			[
+				60,
+				120,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bambi"
+}

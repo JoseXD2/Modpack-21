@@ -1,0 +1,58 @@
+{
+	"storyName": "dave's fun rapping battle!                   .",
+	"difficulties": "legacy, flip",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"house",
+			"davefree",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"insanity",
+			"davefree",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"polygonized",
+			"dave_3dfree",
+			[
+				200,
+				120,
+				120
+			]
+		],
+		[
+			"bonus-song",
+			"davefree",
+			[
+				0,
+				53,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "dave"
+}

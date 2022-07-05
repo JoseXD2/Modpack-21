@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bunzo_assets.png"><SubTexture name="bunzo down0000" x="0" y="0" width="652" height="1977" frameX="-5" frameY="0" frameWidth="657" frameHeight="1977" />
+<SubTexture name="bunzo down0001" x="652" y="0" width="648" height="1977" frameX="-6" frameY="0" frameWidth="657" frameHeight="1977" />
+<SubTexture name="bunzo idle0000" x="1300" y="0" width="644" height="1884" frameX="0" frameY="0" frameWidth="644" frameHeight="1885" />
+<SubTexture name="bunzo left0000" x="1156" y="1977" width="595" height="1715" frameX="-13" frameY="0" frameWidth="623" frameHeight="1733" />
+<SubTexture name="bunzo left0001" x="559" y="1977" width="597" height="1720" frameX="-9" frameY="0" frameWidth="623" frameHeight="1733" />
+<SubTexture name="bunzo right0000" x="1944" y="0" width="696" height="1831" frameX="-14" frameY="0" frameWidth="714" frameHeight="1832" />
+<SubTexture name="bunzo right0001" x="2640" y="0" width="696" height="1824" frameX="-12" frameY="0" frameWidth="714" frameHeight="1832" />
+<SubTexture name="bunzo up0000" x="3336" y="0" width="555" height="1741" frameX="-13" frameY="0" frameWidth="572" frameHeight="1760" />
+<SubTexture name="bunzo up0001" x="0" y="1977" width="559" height="1738" frameX="-11" frameY="0" frameWidth="572" frameHeight="1760" />
+</TextureAtlas>

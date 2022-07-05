@@ -1,0 +1,41 @@
+{
+	"storyName": "Demoman                             .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Demo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"IronBomber",
+			"demo",
+			[
+				160,
+				0,
+				0
+			]
+		],
+		[
+			"Kaboom",
+			"demoman",
+			[
+				80,
+				60,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "demomanses",
+	"hiddenUntilUnlocked": false
+}

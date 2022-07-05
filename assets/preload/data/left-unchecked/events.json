@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "alley",
+		"player1": "gf",
+		"player2": "hypno-two",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enable Pendulum",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Left-Unchecked"
+	}
+}

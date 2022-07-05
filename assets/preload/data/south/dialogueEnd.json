@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "grimace",
+			"text": "Was that also just 'beginners luck'?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "irritated",
+			"text": "Yeah! W-we just went medium on you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "normal",
+			"text": "(Whisper) My throat kinda hurts, Skid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "irritated",
+			"text": "(Whisper) One more song.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "happy",
+			"text": "Sure sure, so you actually gonna do 'your best' this time around?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  },
+	  {
+			"expression": "angry",
+			"text": "Yeah! No more going easy on you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "normal",
+			"text": "Yeah! We're gonna beat you this time around-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "default",
+			"text": "*CRASH*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "noChar"
+	  },
+	  {
+			"expression": "default",
+			"text": "*the crowd runs out in a panic*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "noChar"
+	  },
+	  {
+			"expression": "scared",
+			"text": "WHAT IS THAT!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "nope",
+			"text": "LET'S GET THE HELL OUT OF HERE!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "1",
+			"text": "Oh, did I crash your little party...? That's too bad as this'll be the last time you see anyone else...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+	  },
+	  {
+			"expression": "2",
+			"text": "After all, I can't let you experience the burden I've carried for the past 7 years...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+	  }
+	]
+}

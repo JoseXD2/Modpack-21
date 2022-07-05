@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CheatingBamIdle"
+		},
+		{
+			"offsets": [
+				-32,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CheatingBamIDown"
+		},
+		{
+			"offsets": [
+				87,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CheatingBamRight"
+		},
+		{
+			"offsets": [
+				-25,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CheatingBamLeft"
+		},
+		{
+			"offsets": [
+				-16,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CheatingBamUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cheating",
+	"position": [
+		710,
+		90
+	],
+	"healthicon": "cheatingbambi",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		0
+	],
+	"camera_position": [
+		-260,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bendu.png"><SubTexture name="DOWN0000" x="438" y="1601" width="459" height="465" frameX="-26" frameY="-68" frameWidth="592" frameHeight="629" />
+<SubTexture name="DOWN0001" x="0" y="1601" width="438" height="491" frameX="-37" frameY="-55" frameWidth="592" frameHeight="629" />
+<SubTexture name="DOWN0002" x="1702" y="0" width="401" height="498" frameX="-57" frameY="-54" frameWidth="592" frameHeight="629" />
+<SubTexture name="IDLE0000" x="2103" y="0" width="588" height="325" frameX="-3" frameY="-233" frameWidth="592" frameHeight="629" />
+<SubTexture name="IDLE0001" x="1367" y="1601" width="525" height="396" frameX="-35" frameY="-162" frameWidth="592" frameHeight="629" />
+<SubTexture name="IDLE0002" x="897" y="1601" width="470" height="463" frameX="-55" frameY="-96" frameWidth="592" frameHeight="629" />
+<SubTexture name="IDLE0003" x="492" y="1086" width="445" height="505" frameX="-71" frameY="-54" frameWidth="592" frameHeight="629" />
+<SubTexture name="LEFT0000" x="937" y="1086" width="365" height="503" frameX="-5" frameY="-62" frameWidth="592" frameHeight="629" />
+<SubTexture name="LEFT0001" x="1336" y="520" width="365" height="504" frameX="-11" frameY="-61" frameWidth="592" frameHeight="629" />
+<SubTexture name="LEFT0002" x="1336" y="0" width="366" height="520" frameX="-20" frameY="-47" frameWidth="592" frameHeight="629" />
+<SubTexture name="RIGHT0000" x="0" y="560" width="492" height="526" frameX="-100" frameY="-35" frameWidth="592" frameHeight="629" />
+<SubTexture name="RIGHT0001" x="492" y="560" width="489" height="525" frameX="-103" frameY="-38" frameWidth="592" frameHeight="629" />
+<SubTexture name="RIGHT0002" x="0" y="1086" width="492" height="515" frameX="-100" frameY="-50" frameWidth="592" frameHeight="629" />
+<SubTexture name="UP0000" x="0" y="0" width="454" height="560" frameX="-73" frameY="0" frameWidth="592" frameHeight="629" />
+<SubTexture name="UP0001" x="454" y="0" width="444" height="559" frameX="-73" frameY="0" frameWidth="592" frameHeight="629" />
+<SubTexture name="UP0002" x="898" y="0" width="438" height="547" frameX="-73" frameY="-12" frameWidth="592" frameHeight="629" />
+</TextureAtlas>

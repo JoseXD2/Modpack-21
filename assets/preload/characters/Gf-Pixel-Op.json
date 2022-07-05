@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "GF RIGHT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "GF UP MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "GF LEFT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "GF DOWN MISS"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 22,
+			"name": "GF scared",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "GF ALT RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "GF ALT UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "GF ALT LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "GF ALT DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"anim": "hey",
+			"fps": 22,
+			"name": "GF Yeah",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/PixelGf-sing",
+	"position": [
+		80,
+		540
+	],
+	"healthicon": "PixelGf-Alt",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		40,
+		86
+	],
+	"camera_position": [
+		-150,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

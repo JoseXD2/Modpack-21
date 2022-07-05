@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFPixel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="GF IDLE instance 10000" x="0" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10001" x="0" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10002" x="76" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10003" x="76" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10004" x="152" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10005" x="152" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10006" x="228" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10007" x="228" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10008" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10009" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10010" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10011" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10012" x="228" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10013" x="228" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10014" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10015" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10016" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10017" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10018" x="304" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10019" x="228" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10020" x="228" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10021" x="152" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10022" x="152" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10023" x="76" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10024" x="76" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10025" x="0" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10026" x="0" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10027" x="0" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10028" x="76" y="0" width="74" height="74"/>
+	<SubTexture name="GF IDLE instance 10029" x="76" y="0" width="74" height="74"/>
+
+	<SubTexture name="GF Yeah 10000" x="380" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10001" x="380" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10002" x="380" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10003" x="380" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10004" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10005" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10006" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10007" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10008" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10009" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10010" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10011" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10012" x="532" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10013" x="532" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10014" x="532" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10015" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10016" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10017" x="456" y="0" width="74" height="74"/>
+	<SubTexture name="GF Yeah 10018" x="532" y="0" width="74" height="74"/>
+
+	<SubTexture name="GF DOWN NOTE instance 10000" x="0" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10001" x="0" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10002" x="0" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10003" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10004" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10005" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10006" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10007" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10008" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10009" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10010" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10011" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN NOTE instance 10012" x="76" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10000" x="0" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10001" x="152" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10002" x="152" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10003" x="152" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10004" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10005" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10006" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10007" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10008" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10009" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10010" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10011" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10012" x="228" y="76" width="74" height="74"/>
+	<SubTexture name="GF DOWN MISS instance 10013" x="228" y="76" width="74" height="74"/>
+
+	<SubTexture name="GF LEFT NOTE instance 10000" x="304" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10001" x="304" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10002" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10003" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10004" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10005" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10006" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10007" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10008" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10009" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10010" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10011" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT NOTE instance 10012" x="380" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10000" x="304" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10001" x="456" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10002" x="456" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10003" x="456" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10004" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10005" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10006" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10007" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10008" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10009" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10010" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10011" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10012" x="532" y="76" width="74" height="74"/>
+	<SubTexture name="GF LEFT MISS instance 10013" x="532" y="76" width="74" height="74"/>
+
+	<SubTexture name="GF RIGHT NOTE instance 10000" x="0" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10001" x="0" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10002" x="0" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10003" x="0" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10004" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10005" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10006" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10007" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10008" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10009" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10010" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10011" x="76" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT NOTE instance 10012" x="76" y="152" width="74" height="74"/>
+
+	<SubTexture name="GF RIGHT MISS instance 10000" x="0" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10001" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10002" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10003" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10004" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10005" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10006" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10007" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10008" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10009" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10010" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10011" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10012" x="152" y="152" width="74" height="74"/>
+	<SubTexture name="GF RIGHT MISS instance 10013" x="152" y="152" width="74" height="74"/>
+
+	<SubTexture name="GF UP NOTE instance 10000" x="304" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10001" x="304" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10002" x="304" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10003" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10004" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10005" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10006" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10007" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10008" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10009" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10010" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10011" x="380" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP NOTE instance 10012" x="380" y="152" width="74" height="74"/>
+
+	<SubTexture name="GF UP MISS instance 10000" x="304" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10001" x="456" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10002" x="456" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10003" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10004" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10005" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10006" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10007" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10008" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10009" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10010" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10011" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10012" x="532" y="152" width="74" height="74"/>
+	<SubTexture name="GF UP MISS instance 10013" x="532" y="152" width="74" height="74"/>
+
+	<SubTexture name="GF scared 10000" x="0" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10001" x="0" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10002" x="0" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10003" x="0" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10004" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10005" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10006" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10007" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10008" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10009" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10010" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10011" x="152" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10012" x="152" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10013" x="152" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10014" x="152" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10015" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10016" x="76" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10017" x="152" y="228" width="74" height="74"/>
+	<SubTexture name="GF scared 10018" x="152" y="228" width="74" height="74"/>
+
+
+	<SubTexture name="GF ALT DOWN NOTE 10000" x="228" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10001" x="228" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10002" x="228" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10003" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10004" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10005" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10006" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10007" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10008" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10009" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10010" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10011" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT DOWN NOTE 10012" x="304" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10000" x="380" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10001" x="380" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10002" x="380" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10003" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10004" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10005" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10006" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10007" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10008" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10009" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10010" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10011" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT LEFT NOTE 10012" x="456" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10000" x="532" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10001" x="532" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10002" x="532" y="228" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10003" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10004" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10005" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10006" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10007" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10008" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10009" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10010" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10011" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT RIGHT NOTE 10012" x="0" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10000" x="76" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10001" x="76" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10002" x="76" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10003" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10004" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10005" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10006" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10007" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10008" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10009" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10010" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10011" x="152" y="304" width="74" height="74"/>
+	<SubTexture name="GF ALT UP NOTE 10012" x="152" y="304" width="74" height="74"/>
+
+</TextureAtlas>
+	<SubTexture name="GF EH NOTE 10000" x="228" y="380" width="74" height="74"/>

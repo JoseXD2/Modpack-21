@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flumpty.png"><SubTexture name="idle0000" x="1704" y="1514" width="881" height="671" frameX="-32" frameY="-11" frameWidth="945" frameHeight="682" />
+<SubTexture name="idle0001" x="1704" y="1514" width="881" height="671" frameX="-32" frameY="-11" frameWidth="945" frameHeight="682" />
+<SubTexture name="idle0002" x="849" y="1514" width="855" height="680" frameX="-46" frameY="-2" frameWidth="945" frameHeight="682" />
+<SubTexture name="idle0003" x="849" y="1514" width="855" height="680" frameX="-46" frameY="-2" frameWidth="945" frameHeight="682" />
+<SubTexture name="idle0004" x="0" y="1514" width="849" height="682" frameX="-49" frameY="0" frameWidth="945" frameHeight="682" />
+<SubTexture name="idle0005" x="0" y="1514" width="849" height="682" frameX="-49" frameY="0" frameWidth="945" frameHeight="682" />
+<SubTexture name="jumpscare0000" x="0" y="0" width="2951" height="1514" frameX="0" frameY="0" frameWidth="2951" frameHeight="1564" />
+<SubTexture name="jumpscare0001" x="0" y="0" width="2951" height="1514" frameX="-7" frameY="-12" frameWidth="2951" frameHeight="1564" />
+<SubTexture name="jumpscare0002" x="0" y="0" width="2951" height="1514" frameX="11" frameY="10" frameWidth="2951" frameHeight="1564" />
+<SubTexture name="jumpscare0003" x="0" y="0" width="2951" height="1514" frameX="-6" frameY="11" frameWidth="2951" frameHeight="1564" />
+<SubTexture name="jumpscare0004" x="0" y="0" width="2951" height="1514" frameX="-10" frameY="19" frameWidth="2951" frameHeight="1564" />
+<SubTexture name="jumpscare0005" x="0" y="0" width="2951" height="1514" frameX="10" frameY="-13" frameWidth="2951" frameHeight="1564" />
+<SubTexture name="jumpscare0006" x="0" y="0" width="2951" height="1514" frameX="8" frameY="-18" frameWidth="2951" frameHeight="1564" />
+<SubTexture name="jumpscare0007" x="0" y="0" width="2951" height="1514" frameX="-5" frameY="-2" frameWidth="2951" frameHeight="1564" />
+</TextureAtlas>

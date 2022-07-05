@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mark.png">
+<SubTexture name="MarkIdle0000" x="639" y="0" width="326" height="648" frameX="0" frameY="-13" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0001" x="639" y="0" width="326" height="648" frameX="0" frameY="-13" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0002" x="319" y="0" width="320" height="649" frameX="-4" frameY="-13" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0003" x="319" y="0" width="320" height="649" frameX="-4" frameY="-13" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0004" x="0" y="0" width="319" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0005" x="0" y="0" width="319" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0006" x="0" y="0" width="319" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0007" x="0" y="0" width="319" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0008" x="0" y="0" width="319" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662" />
+<SubTexture name="MarkIdle0009" x="0" y="0" width="319" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662" />
+</TextureAtlas>

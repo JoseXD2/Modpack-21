@@ -1,0 +1,50 @@
+{
+	"storyName": "Songs with modcharts                       .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Modcharts",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"South erect",
+			"spooky",
+			[
+				20,
+				40,
+				140
+			]
+		],
+		[
+			"Credits",
+			"frums",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Taste for Blood",
+			"sonic-dark",
+			[
+				86,
+				13,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "modcharttes",
+	"hiddenUntilUnlocked": false
+}

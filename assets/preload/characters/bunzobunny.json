@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bunzo idle"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bunzo up"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bunzo down"
+		},
+		{
+			"offsets": [
+				148,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bunzo left"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bunzo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bunzo_assets",
+	"position": [
+		50,
+		-1600
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-100,
+		480
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

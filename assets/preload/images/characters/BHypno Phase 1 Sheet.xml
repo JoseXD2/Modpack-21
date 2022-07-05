@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BHypno Phase 1 Sheet.png"><SubTexture name="Final Hypno Down0000" x="3116" y="2902" width="640" height="513" frameX="-11" frameY="-22" frameWidth="666" frameHeight="536" />
+<SubTexture name="Final Hypno Down0001" x="2485" y="2902" width="631" height="523" frameX="-15" frameY="-13" frameWidth="666" frameHeight="536" />
+<SubTexture name="Final Hypno Down0002" x="3064" y="2252" width="639" height="525" frameX="-10" frameY="-11" frameWidth="666" frameHeight="536" />
+<SubTexture name="Final Hypno Down0003" x="3064" y="1192" width="632" height="534" frameX="-8" frameY="0" frameWidth="666" frameHeight="536" />
+<SubTexture name="Final Hypno Down0004" x="3064" y="1192" width="632" height="534" frameX="-8" frameY="0" frameWidth="666" frameHeight="536" />
+<SubTexture name="Final Hypno Down0005" x="3064" y="1192" width="632" height="534" frameX="-8" frameY="0" frameWidth="666" frameHeight="536" />
+<SubTexture name="Final Hypno Down0006" x="3064" y="1192" width="632" height="534" frameX="-8" frameY="0" frameWidth="666" frameHeight="536" />
+<SubTexture name="Final Hypno Down0007" x="3064" y="1192" width="632" height="534" frameX="-8" frameY="0" frameWidth="666" frameHeight="536" />
+<SubTexture name="Full Psyshock Particle0000" x="0" y="0" width="534" height="798" frameX="-31" frameY="-33" frameWidth="628" frameHeight="865" />
+<SubTexture name="Full Psyshock Particle0001" x="3341" y="1726" width="311" height="478" frameX="-83" frameY="-236" frameWidth="628" frameHeight="865" />
+<SubTexture name="Full Psyshock Particle0002" x="3064" y="1726" width="277" height="526" frameX="-138" frameY="-181" frameWidth="628" frameHeight="865" />
+<SubTexture name="Full Psyshock Particle0003" x="3064" y="1726" width="1" height="1" frameX="-138" frameY="-181" frameWidth="628" frameHeight="865" />
+<SubTexture name="Full Psyshock Particle0004" x="3064" y="1726" width="1" height="1" frameX="-138" frameY="-181" frameWidth="628" frameHeight="865" />
+<SubTexture name="Full Psyshock Particle0005" x="3064" y="1726" width="1" height="1" frameX="-138" frameY="-181" frameWidth="628" frameHeight="865" />
+<SubTexture name="Hypno Idle 10000" x="2075" y="2257" width="796" height="608" frameX="-14" frameY="-26" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno Left0000" x="803" y="2902" width="846" height="590" frameX="-79" frameY="-58" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0001" x="1649" y="2902" width="836" height="590" frameX="-92" frameY="-58" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0002" x="0" y="2902" width="803" height="594" frameX="-127" frameY="-54" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0003" x="3064" y="0" width="798" height="596" frameX="-134" frameY="-52" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0004" x="3064" y="596" width="793" height="596" frameX="-139" frameY="-51" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0005" x="3064" y="596" width="793" height="596" frameX="-139" frameY="-51" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0006" x="3064" y="596" width="793" height="596" frameX="-139" frameY="-51" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0007" x="3064" y="596" width="793" height="596" frameX="-139" frameY="-51" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0008" x="3064" y="596" width="793" height="596" frameX="-139" frameY="-51" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0009" x="3064" y="596" width="793" height="596" frameX="-139" frameY="-51" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Left0010" x="3064" y="596" width="793" height="596" frameX="-139" frameY="-51" frameWidth="932" frameHeight="649" />
+<SubTexture name="Hypno Right0000" x="0" y="1565" width="750" height="692" frameX="-4" frameY="0" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Right0001" x="750" y="1565" width="730" height="692" frameX="-1" frameY="0" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Right0002" x="0" y="2257" width="697" height="645" frameX="0" frameY="-47" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Right0003" x="697" y="2257" width="690" height="641" frameX="0" frameY="-51" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Right0004" x="1387" y="2257" width="688" height="641" frameX="0" frameY="-51" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Right0005" x="1387" y="2257" width="688" height="641" frameX="0" frameY="-51" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Right0006" x="1387" y="2257" width="688" height="641" frameX="0" frameY="-51" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Right0007" x="1387" y="2257" width="688" height="641" frameX="0" frameY="-51" frameWidth="754" frameHeight="693" />
+<SubTexture name="Hypno Up0000" x="534" y="0" width="617" height="784" frameX="-22" frameY="-49" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0001" x="1151" y="0" width="617" height="780" frameX="-26" frameY="-53" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0002" x="0" y="798" width="618" height="767" frameX="-34" frameY="-67" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0003" x="618" y="798" width="620" height="767" frameX="-34" frameY="-67" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0004" x="1768" y="0" width="620" height="766" frameX="-16" frameY="-68" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0005" x="1768" y="0" width="620" height="766" frameX="-16" frameY="-68" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0006" x="1768" y="0" width="620" height="766" frameX="-16" frameY="-68" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0007" x="1768" y="0" width="620" height="766" frameX="-16" frameY="-68" frameWidth="655" frameHeight="834" />
+<SubTexture name="Hypno Up0008" x="1768" y="0" width="620" height="766" frameX="-16" frameY="-68" frameWidth="655" frameHeight="834" />
+<SubTexture name="Psyshock Full0000" x="1480" y="1565" width="690" height="654" frameX="-1" frameY="-4" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0001" x="2388" y="0" width="676" height="648" frameX="0" frameY="-9" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0002" x="2388" y="648" width="667" height="642" frameX="0" frameY="-15" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0003" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0004" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0005" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0006" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0007" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0008" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0009" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+<SubTexture name="Psyshock Full0010" x="2388" y="1290" width="660" height="641" frameX="0" frameY="-16" frameWidth="735" frameHeight="658" />
+</TextureAtlas>

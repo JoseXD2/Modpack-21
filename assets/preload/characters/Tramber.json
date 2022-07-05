@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tramber Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				277
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "Tramber Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				310
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "Tramber Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				308
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "Tramber Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				264
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "Tramber Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				310
+			],
+			"anim": "shake",
+			"fps": 48,
+			"name": "Tramber Shake",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				319
+			],
+			"anim": "fall",
+			"fps": 22,
+			"name": "Tramber Fall",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tramber",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Tramber",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		300,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

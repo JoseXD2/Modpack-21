@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				41,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				303,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				88,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				78,
+				521
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bandugaming",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "icon-bandu",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		175,
+		11
+	],
+	"camera_position": [
+		50,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

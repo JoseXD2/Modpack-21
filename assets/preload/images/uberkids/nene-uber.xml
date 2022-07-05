@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nene-uber.png"><SubTexture name="Nene Idle0000" x="1046" y="398" width="519" height="395" frameX="-1" frameY="-6" frameWidth="520" frameHeight="402" />
+<SubTexture name="Nene Stab0000" x="533" y="475" width="459" height="382" frameX="-90" frameY="-89" frameWidth="549" frameHeight="475" />
+<SubTexture name="Nene Stab0001" x="533" y="475" width="459" height="382" frameX="-90" frameY="-89" frameWidth="549" frameHeight="475" />
+<SubTexture name="Nene Stab0002" x="523" y="0" width="523" height="472" frameX="-6" frameY="-3" frameWidth="549" frameHeight="475" />
+<SubTexture name="Nene Stab0003" x="523" y="0" width="523" height="472" frameX="-6" frameY="-3" frameWidth="549" frameHeight="475" />
+<SubTexture name="Nene Stab0004" x="0" y="475" width="533" height="405" frameX="-10" frameY="-69" frameWidth="549" frameHeight="475" />
+<SubTexture name="Nene Stab0005" x="0" y="475" width="533" height="405" frameX="-10" frameY="-69" frameWidth="549" frameHeight="475" />
+<SubTexture name="Nene Stab0006" x="0" y="880" width="519" height="391" frameX="-19" frameY="-83" frameWidth="549" frameHeight="475" />
+<SubTexture name="Nene Stab0007" x="0" y="880" width="519" height="391" frameX="-19" frameY="-83" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0000" x="533" y="475" width="459" height="382" frameX="-90" frameY="-89" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0001" x="533" y="475" width="459" height="382" frameX="-90" frameY="-89" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0002" x="523" y="0" width="523" height="472" frameX="-6" frameY="-4" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0003" x="523" y="0" width="523" height="472" frameX="-6" frameY="-4" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0004" x="0" y="0" width="523" height="475" frameX="-5" frameY="0" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0005" x="0" y="0" width="523" height="475" frameX="-5" frameY="0" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0006" x="0" y="475" width="533" height="405" frameX="0" frameY="-69" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0007" x="0" y="475" width="533" height="405" frameX="0" frameY="-69" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0008" x="1046" y="0" width="523" height="398" frameX="-13" frameY="-77" frameWidth="549" frameHeight="475" />
+<SubTexture name="NeneStabbing0009" x="1046" y="0" width="523" height="398" frameX="-13" frameY="-77" frameWidth="549" frameHeight="475" />
+</TextureAtlas>

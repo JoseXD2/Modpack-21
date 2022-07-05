@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "3dfuckedbside",
+		"player1": "bsidebf",
+		"player2": "expungedbside",
+		"player3": null,
+		"events": [
+			[
+				47996.875,
+				[
+					[
+						"Change Character",
+						"1",
+						"expungedb-tilt"
+					]
+				]
+			],
+			[
+				59993.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"expungedb-tilt"
+					]
+				]
+			],
+			[
+				63996.875,
+				[
+					[
+						"Change Character",
+						"1",
+						"expungedb-tilt"
+					]
+				]
+			],
+			[
+				75996.875,
+				[
+					[
+						"Change Character",
+						"1",
+						"expungedb-tilt"
+					]
+				]
+			],
+			[
+				79996.875,
+				[
+					[
+						"Change Character",
+						"1",
+						"expungedbside"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0.005"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "oppositionbside"
+	}
+}

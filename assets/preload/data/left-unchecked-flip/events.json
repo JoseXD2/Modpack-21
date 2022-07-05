@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "b-alley",
+		"player1": "bgf",
+		"player2": "bhypno-two",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enable Pendulum",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Left-Unchecked-b-side"
+	}
+}

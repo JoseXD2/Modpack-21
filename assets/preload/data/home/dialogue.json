@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hey!!!!! Bf!!!!! Glad you could make it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "talk",
+			"text": "thanks! nice seeing you too!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "so what is this? some kind of party?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ehhhhh kinda",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "davesus"
+		},
+		{
+			"expression": "excited",
+			"text": "oh mk!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo guys! welcome!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "sup bambi!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo how about we get this party started with some drinks?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "sounds good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "really thirsty for some reason.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "aight what you guys want?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mind giving me a nice_pop bambi?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ummm water for me, thanks."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "aight!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey bf, how about we try a new remix of house while we wait for bambi?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Sure thing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "lets do this!"
+		}
+	]
+}

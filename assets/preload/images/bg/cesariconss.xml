@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cesariconss.png"><SubTexture name="cesarstill0000" x="0" y="169" width="182" height="144" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="shakey0000" x="0" y="0" width="181" height="169" frameX="-3" frameY="-3" frameWidth="184" frameHeight="172" />
+<SubTexture name="shakey0001" x="181" y="0" width="182" height="169" frameX="-1" frameY="-3" frameWidth="184" frameHeight="172" />
+<SubTexture name="shakey0002" x="181" y="0" width="182" height="169" frameX="-1" frameY="-3" frameWidth="184" frameHeight="172" />
+</TextureAtlas>

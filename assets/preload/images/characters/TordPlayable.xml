@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TordPlayable.png"><SubTexture name="TordIdleDown0000" x="1281" y="2244" width="423" height="653" frameX="0" frameY="-10" frameWidth="425" frameHeight="664" />
+<SubTexture name="TordIdleDown0001" x="864" y="2244" width="417" height="664" frameX="-7" frameY="0" frameWidth="425" frameHeight="664" />
+<SubTexture name="TordIdleHEY!!0000" x="1203" y="0" width="428" height="742" frameX="-2" frameY="0" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleHEY!!0001" x="425" y="1505" width="432" height="738" frameX="-1" frameY="-4" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleHEY!!0002" x="1715" y="1505" width="434" height="736" frameX="0" frameY="-6" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleHEY!!0003" x="0" y="763" width="428" height="742" frameX="-2" frameY="0" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleHEY!!0004" x="857" y="1505" width="432" height="738" frameX="-1" frameY="-4" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleHEY!!0005" x="2501" y="0" width="434" height="736" frameX="0" frameY="-6" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleHEY!!0006" x="2501" y="736" width="434" height="736" frameX="0" frameY="-6" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleHEY!!0007" x="1715" y="1505" width="434" height="736" frameX="0" frameY="-6" frameWidth="435" frameHeight="743" />
+<SubTexture name="TordIdleLeft0000" x="2935" y="734" width="366" height="731" frameX="0" frameY="-3" frameWidth="394" frameHeight="735" />
+<SubTexture name="TordIdleLeft0001" x="2935" y="0" width="382" height="734" frameX="-11" frameY="0" frameWidth="394" frameHeight="735" />
+<SubTexture name="TordIdlePlayable0000" x="427" y="2244" width="437" height="725" frameX="0" frameY="-13" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0001" x="0" y="2244" width="427" height="726" frameX="-2" frameY="-13" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0002" x="2501" y="1472" width="431" height="736" frameX="-5" frameY="-3" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0003" x="1289" y="1505" width="426" height="738" frameX="-6" frameY="-1" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0004" x="906" y="763" width="425" height="739" frameX="-5" frameY="0" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0005" x="1631" y="0" width="434" height="739" frameX="-6" frameY="0" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0006" x="2065" y="0" width="436" height="739" frameX="-5" frameY="0" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0007" x="2065" y="739" width="430" height="739" frameX="-6" frameY="0" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0008" x="1631" y="739" width="429" height="739" frameX="-5" frameY="0" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdlePlayable0009" x="0" y="1505" width="425" height="739" frameX="-6" frameY="0" frameWidth="442" frameHeight="740" />
+<SubTexture name="TordIdleRight0000" x="734" y="0" width="469" height="743" frameX="0" frameY="0" frameWidth="481" frameHeight="744" />
+<SubTexture name="TordIdleRight0001" x="428" y="763" width="478" height="740" frameX="-2" frameY="-3" frameWidth="481" frameHeight="744" />
+<SubTexture name="TordIdleUp0000" x="0" y="0" width="360" height="763" frameX="0" frameY="0" frameWidth="381" frameHeight="764" />
+<SubTexture name="TordIdleUp0001" x="360" y="0" width="374" height="755" frameX="-6" frameY="-7" frameWidth="381" frameHeight="764" />
+</TextureAtlas>

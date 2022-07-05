@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="laser.png"><SubTexture name="laser idle0000" x="53" y="0" width="39" height="39" frameX="-18" frameY="-18" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0000" x="0" y="0" width="53" height="53" frameX="0" frameY="-12" frameWidth="74" frameHeight="74" />
+</TextureAtlas>

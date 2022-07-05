@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Yeah okay I'm over it. Guess I'll just kill you now.",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "michael"
+		},
+		{
+			"expression": "pissed",
+			"text": "Your sins far outweigh your virtues. You have no right to rule a realm of balance if you are tainted with EVIL!!! ",
+			"boxState": "angry",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Now then...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Lets do this",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="finalpunch.png"><SubTexture name="FinalPunch0000" x="0" y="0" width="745" height="663" frameX="-35" frameY="-1" frameWidth="780" frameHeight="668" />
+<SubTexture name="FinalPunch0001" x="0" y="0" width="745" height="663" frameX="-35" frameY="-1" frameWidth="780" frameHeight="668" />
+</TextureAtlas>

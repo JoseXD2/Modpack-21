@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "pinkBackground",
+		"player1": "bf_rosie",
+		"player2": "Rosanna",
+		"player3": null,
+		"events": [
+			[
+				5598.21428571429,
+				[
+					[
+						"Play Animation",
+						"ara ara",
+						"0"
+					]
+				]
+			],
+			[
+				73928.5714285715,
+				[
+					[
+						"Play Animation",
+						"ara ara",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Petals"
+	}
+}

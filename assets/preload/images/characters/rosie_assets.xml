@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rosie_assets.png"><SubTexture name="rosanna ara ara0000" x="0" y="2097" width="391" height="666" frameX="0" frameY="-1" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0001" x="1559" y="0" width="390" height="667" frameX="-1" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0002" x="1559" y="667" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0003" x="1949" y="0" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0004" x="1949" y="667" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0005" x="0" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0006" x="0" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0007" x="0" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0008" x="389" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0009" x="389" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0010" x="778" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0011" x="778" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0012" x="1167" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0013" x="1167" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0014" x="1556" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0015" x="1556" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0016" x="1556" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0017" x="1945" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0018" x="1945" y="1430" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0019" x="2338" y="0" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0020" x="2338" y="0" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0021" x="2338" y="667" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0022" x="2338" y="667" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0023" x="2338" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0024" x="2338" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0025" x="2338" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0026" x="2727" y="0" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0027" x="2727" y="0" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0028" x="2727" y="667" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0029" x="2727" y="667" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0030" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0031" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0032" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0033" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0034" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0035" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0036" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0037" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0038" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0039" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0040" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0041" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0042" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0043" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna ara ara0044" x="2727" y="1334" width="389" height="667" frameX="-2" frameY="0" frameWidth="391" frameHeight="667" />
+<SubTexture name="rosanna down0000" x="2034" y="3429" width="565" height="510" frameX="-6" frameY="0" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0001" x="2599" y="3429" width="575" height="508" frameX="-1" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0002" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0003" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0004" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0005" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0006" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0007" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0008" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0009" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0010" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0011" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0012" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0013" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0014" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0015" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0016" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0017" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0018" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0019" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0020" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0021" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0022" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0023" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0024" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0025" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0026" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0027" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0028" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna down0029" x="3174" y="3429" width="577" height="508" frameX="0" frameY="-2" frameWidth="577" frameHeight="511" />
+<SubTexture name="rosanna idle0000" x="2825" y="2763" width="523" height="663" frameX="0" frameY="-3" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0001" x="3582" y="0" width="489" height="663" frameX="-21" frameY="-3" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0002" x="3582" y="663" width="481" height="663" frameX="-23" frameY="-3" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0003" x="2349" y="2763" width="476" height="664" frameX="-25" frameY="-2" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0004" x="1408" y="2763" width="472" height="665" frameX="-26" frameY="-1" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0005" x="1880" y="2763" width="469" height="665" frameX="-27" frameY="-1" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0006" x="391" y="2097" width="468" height="666" frameX="-27" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0007" x="3116" y="666" width="466" height="665" frameX="-28" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0008" x="859" y="2097" width="466" height="666" frameX="-28" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0009" x="1325" y="2097" width="466" height="666" frameX="-28" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0010" x="1791" y="2097" width="466" height="666" frameX="-28" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0011" x="2257" y="2097" width="466" height="666" frameX="-28" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0012" x="3116" y="0" width="466" height="666" frameX="-28" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0013" x="0" y="2763" width="469" height="666" frameX="-25" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0014" x="469" y="2763" width="470" height="666" frameX="-24" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna idle0015" x="939" y="2763" width="469" height="666" frameX="-24" frameY="0" frameWidth="523" frameHeight="667" />
+<SubTexture name="rosanna left0000" x="0" y="760" width="491" height="670" frameX="-1" frameY="0" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0001" x="491" y="760" width="500" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0002" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0003" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0004" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0005" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0006" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0007" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0008" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0009" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0010" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0011" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0012" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0013" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0014" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0015" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0016" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0017" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0018" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0019" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0020" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0021" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0022" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0023" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0024" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0025" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0026" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0027" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0028" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna left0029" x="991" y="760" width="501" height="670" frameX="0" frameY="-1" frameWidth="501" frameHeight="671" />
+<SubTexture name="rosanna right0000" x="3582" y="1326" width="489" height="530" frameX="-11" frameY="0" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0001" x="0" y="3429" width="507" height="528" frameX="-1" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0002" x="507" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0003" x="1016" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0004" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0005" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0006" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0007" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0008" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0009" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0010" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0011" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0012" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0013" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0014" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0015" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0016" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0017" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0018" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0019" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0020" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0021" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0022" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0023" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0024" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0025" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0026" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0027" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0028" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna right0029" x="1525" y="3429" width="509" height="527" frameX="0" frameY="-2" frameWidth="509" frameHeight="530" />
+<SubTexture name="rosanna up0000" x="0" y="0" width="526" height="760" frameX="0" frameY="0" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0001" x="526" y="0" width="520" height="758" frameX="-6" frameY="-3" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0002" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0003" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0004" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0005" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0006" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0007" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0008" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0009" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0010" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0011" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0012" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0013" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0014" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0015" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0016" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0017" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0018" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0019" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0020" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0021" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0022" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0023" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0024" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0025" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0026" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0027" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0028" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+<SubTexture name="rosanna up0029" x="1046" y="0" width="513" height="755" frameX="-13" frameY="-6" frameWidth="527" frameHeight="761" />
+</TextureAtlas>

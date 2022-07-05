@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="colors.png">
+<SubTexture name="acyan0000" x="0" y="0" width="1718" height="461" frameX="-3" frameY="-4" frameWidth="3447" frameHeight="936" />
+<SubTexture name="agreen0000" x="0" y="461" width="1718" height="461" frameX="-3" frameY="-4" frameWidth="3447" frameHeight="936" />
+<SubTexture name="apink0000" x="0" y="921" width="1718" height="461" frameX="-4" frameY="-4" frameWidth="3448" frameHeight="936" />
+<SubTexture name="ared0000" x="1718" y="0" width="1718" height="461" frameX="-3" frameY="-4" frameWidth="3447" frameHeight="936" />
+<SubTexture name="atutorial0000" x="1718" y="461" width="1701" height="912" frameX="-4" frameY="-4" frameWidth="3414" frameHeight="927" />
+</TextureAtlas>

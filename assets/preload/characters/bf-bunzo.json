@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-133,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf miss"
+		},
+		{
+			"offsets": [
+				-133,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				523,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-21
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-133,
+				5
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bf miss"
+		},
+		{
+			"offsets": [
+				-133,
+				5
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bf miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_bunzo_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

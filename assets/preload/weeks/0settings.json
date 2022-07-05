@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "lowQualityOn, lowQualityOff, downScroll, upScroll, middlescrollon, middlescrolloff, ghosttappingon, ghosttappingoff, hidehud, showhud, splashesoff, splasheson",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Settings",
+			"settings",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "amgh"
+}

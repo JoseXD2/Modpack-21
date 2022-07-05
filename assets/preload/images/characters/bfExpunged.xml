@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfExpunged.png"><SubTexture name="BF idle dance0000" x="566" y="1452" width="533" height="655" frameX="-110" frameY="-168" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF idle dance0001" x="1099" y="1452" width="534" height="642" frameX="-123" frameY="-191" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF idle dance0002" x="1633" y="1452" width="535" height="619" frameX="-164" frameY="-224" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE DOWN0000" x="568" y="0" width="579" height="723" frameX="-126" frameY="-141" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE DOWN0001" x="1147" y="0" width="576" height="720" frameX="-119" frameY="-157" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE LEFT0000" x="567" y="732" width="566" height="667" frameX="-104" frameY="-161" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE LEFT0001" x="0" y="1452" width="566" height="666" frameX="-72" frameY="-149" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE RIGHT0000" x="1133" y="732" width="520" height="667" frameX="-112" frameY="-182" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE RIGHT0001" x="1723" y="0" width="526" height="667" frameX="-142" frameY="-173" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE UP0000" x="0" y="732" width="567" height="720" frameX="-137" frameY="-120" frameWidth="796" frameHeight="1100" />
+<SubTexture name="BF NOTE UP0001" x="0" y="0" width="568" height="732" frameX="-127" frameY="-76" frameWidth="796" frameHeight="1100" />
+</TextureAtlas>

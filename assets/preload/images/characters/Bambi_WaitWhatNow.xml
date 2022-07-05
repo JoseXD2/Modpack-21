@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bambi_WaitWhatNow.png"><SubTexture name="what0000" x="0" y="0" width="219" height="268" frameX="-3" frameY="0" frameWidth="235" frameHeight="268" />
+<SubTexture name="what0001" x="219" y="0" width="230" height="264" frameX="0" frameY="-4" frameWidth="235" frameHeight="268" />
+<SubTexture name="what0002" x="449" y="0" width="234" height="253" frameX="-1" frameY="-14" frameWidth="235" frameHeight="268" />
+<SubTexture name="what0003" x="219" y="0" width="230" height="264" frameX="0" frameY="0" frameWidth="235" frameHeight="268" />
+<SubTexture name="what0004" x="219" y="0" width="230" height="264" frameX="0" frameY="0" frameWidth="235" frameHeight="268" />
+</TextureAtlas>

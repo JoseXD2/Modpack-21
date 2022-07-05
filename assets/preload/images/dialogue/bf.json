@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Neo bf happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo bf happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo bf sweat",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo bf sweat",
+			"anim": "sweat",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo bf angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo bf angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo bf grimace",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo bf grimace",
+			"anim": "grimace",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo bf angy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo bf angy",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bf"
+}

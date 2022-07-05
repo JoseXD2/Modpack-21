@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Deep deep voyage",
+			"deep-deep-voyage-pixel",
+			[
+				60,
+				140,
+				0
+			]
+		],
+		[
+			"Boo blitz",
+			"boo-blitz-pixel",
+			[
+				0,
+				0,
+				30
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "mario",
+	"difficulties": "powerup",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "super adventure in mario's world                .",
+	"weekName": "bwerab",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

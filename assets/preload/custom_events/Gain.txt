@@ -1,0 +1,7 @@
+Gains Health
+Value 1 : How much health to grain, half health is 1.
+
+----------
+
+Gana Salud
+Valor 1: Cuánta salud tiene el grano, la mitad de la salud es 1.

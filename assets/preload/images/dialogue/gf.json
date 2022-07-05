@@ -1,0 +1,50 @@
+{
+	"position": [
+		-10,
+		60
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "gf",
+	"animations": [
+		{
+			"loop_name": "Neo gf happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo gf happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo gf blush",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo gf blush",
+			"anim": "blush",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo gf sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo gf sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

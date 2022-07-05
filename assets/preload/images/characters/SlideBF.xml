@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SlideBF.png"><SubTexture name="BFSlideInDown0000" x="1038" y="546" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInDown0001" x="1038" y="546" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInDown0002" x="1557" y="0" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInDown0003" x="1557" y="0" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInDown0004" x="1557" y="512" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInDown0005" x="1557" y="512" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInLeft0000" x="0" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInLeft0001" x="0" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInLeft0002" x="519" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInLeft0003" x="519" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInLeft0004" x="1038" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInLeft0005" x="1038" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInLeft0006" x="519" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="512" />
+<SubTexture name="BFSlideInRight0000" x="1038" y="0" width="519" height="542" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInRight0001" x="1038" y="0" width="519" height="542" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInRight0002" x="0" y="0" width="519" height="546" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInRight0003" x="0" y="0" width="519" height="546" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInRight0004" x="519" y="0" width="519" height="546" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInRight0005" x="519" y="0" width="519" height="546" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInRight0006" x="0" y="0" width="519" height="546" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInRight0007" x="0" y="0" width="519" height="546" frameX="0" frameY="0" frameWidth="520" frameHeight="546" />
+<SubTexture name="BFSlideInUp0000" x="1557" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+<SubTexture name="BFSlideInUp0001" x="1557" y="1059" width="519" height="512" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+<SubTexture name="BFSlideInUp0002" x="0" y="546" width="519" height="513" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+<SubTexture name="BFSlideInUp0003" x="0" y="546" width="519" height="513" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+<SubTexture name="BFSlideInUp0004" x="519" y="546" width="519" height="513" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+<SubTexture name="BFSlideInUp0005" x="519" y="546" width="519" height="513" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+<SubTexture name="BFSlideInUp0006" x="0" y="546" width="519" height="513" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+<SubTexture name="BFSlideInUp0007" x="0" y="546" width="519" height="513" frameX="0" frameY="0" frameWidth="520" frameHeight="513" />
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "Woman with a surprise~                     .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Rosie",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Petals",
+			"rosanna",
+			[
+				255,
+				140,
+				255
+			]
+		],
+		[
+			"Nightshade",
+			"rosanna",
+			[
+				255,
+				140,
+				255
+			]
+		],
+		[
+			"Bloom",
+			"rosanna",
+			[
+				255,
+				140,
+				255
+			]
+		],
+		[
+			"Poison",
+			"rosanna",
+			[
+				255,
+				140,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Rosalie"
+}

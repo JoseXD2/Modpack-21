@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				585,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "bf piano idle"
+		},
+		{
+			"offsets": [
+				585,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf piano note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf piano note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				310
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf piano note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				310
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf piano note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				310
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf piano miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				310
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf piano miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				310
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf piano miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				310
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf piano miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf piano",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "temp",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		380,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

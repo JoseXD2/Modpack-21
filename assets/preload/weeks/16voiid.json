@@ -1,0 +1,50 @@
+{
+	"storyName": "Matt is done with your shit                    .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "voiid",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Target Practice",
+			"mattnormal",
+			[
+				80,
+				0,
+				120
+			]
+		],
+		[
+			"Sporting",
+			"mattangry",
+			[
+				60,
+				0,
+				100
+			]
+		],
+		[
+			"Boxing Match",
+			"mattangry",
+			[
+				40,
+				0,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "voiiderr"
+}

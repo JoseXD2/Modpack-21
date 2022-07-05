@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf.png"><SubTexture name="Neo gf happy0000" x="0" y="0" width="382" height="354" frameX="-18" frameY="-1" frameWidth="401" frameHeight="355" />
+<SubTexture name="Neo gf sad0000" x="382" y="0" width="382" height="354" frameX="-12" frameY="-1" frameWidth="401" frameHeight="355" />
+<SubTexture name="Neo gf blush0000" x="0" y="354" width="382" height="354" frameX="-1" frameY="-1" frameWidth="401" frameHeight="355" />
+</TextureAtlas>

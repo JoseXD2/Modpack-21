@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SpookySpeakersP.png">
+<SubTexture name="BG SPEAKERS PINK0000" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0001" x="0" y="0" width="373" height="430" frameX="0" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0002" x="0" y="0" width="373" height="430" frameX="0" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0003" x="739" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0004" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0005" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0006" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0007" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0008" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0009" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0010" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0011" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0012" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0013" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0014" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0015" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0016" x="0" y="0" width="373" height="430" frameX="0" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0017" x="0" y="0" width="373" height="430" frameX="0" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0018" x="739" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0019" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0020" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0021" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0022" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0023" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0024" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0025" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0026" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0027" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0028" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+<SubTexture name="BG SPEAKERS PINK0029" x="373" y="0" width="366" height="429" frameX="-8" frameY="0" frameWidth="373" frameHeight="430" />
+</TextureAtlas>

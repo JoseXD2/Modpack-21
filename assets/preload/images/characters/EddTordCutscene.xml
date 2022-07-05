@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EddTordCutscene.png">
+<SubTexture name="EddGroundShaking0000" x="539" y="641" width="545" height="575" frameX="-1" frameY="-19" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddGroundShaking0001" x="539" y="641" width="545" height="575" frameX="-1" frameY="-19" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddGroundShaking0002" x="826" y="0" width="532" height="596" frameX="0" frameY="0" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddGroundShaking0003" x="826" y="0" width="532" height="596" frameX="0" frameY="0" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddGroundShaking0004" x="826" y="0" width="532" height="596" frameX="0" frameY="0" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddGroundShaking0005" x="826" y="0" width="532" height="596" frameX="0" frameY="0" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddGroundShaking0006" x="826" y="0" width="532" height="596" frameX="0" frameY="0" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddGroundShaking0007" x="826" y="0" width="532" height="596" frameX="0" frameY="0" frameWidth="546" frameHeight="596" />
+<SubTexture name="EddLookingUp0000" x="0" y="0" width="297" height="641" frameX="-3" frameY="-4" frameWidth="303" frameHeight="645" />
+<SubTexture name="EddTurnToTord0000" x="0" y="641" width="539" height="594" frameX="-1" frameY="-12" frameWidth="540" frameHeight="607" />
+<SubTexture name="EddTurnToTord0001" x="0" y="641" width="539" height="594" frameX="-1" frameY="-12" frameWidth="540" frameHeight="607" />
+<SubTexture name="EddTurnToTord0002" x="297" y="0" width="529" height="603" frameX="-3" frameY="-4" frameWidth="540" frameHeight="607" />
+<SubTexture name="EddTurnToTord0003" x="297" y="0" width="529" height="603" frameX="-3" frameY="-4" frameWidth="540" frameHeight="607" />
+<SubTexture name="EddTurnToTord0004" x="297" y="0" width="529" height="603" frameX="-3" frameY="-4" frameWidth="540" frameHeight="607" />
+<SubTexture name="EddTurnToTord0005" x="297" y="0" width="529" height="603" frameX="-3" frameY="-4" frameWidth="540" frameHeight="607" />
+<SubTexture name="EddTurnToTord0006" x="297" y="0" width="529" height="603" frameX="-3" frameY="-4" frameWidth="540" frameHeight="607" />
+<SubTexture name="EddTurnToTord0007" x="297" y="0" width="529" height="603" frameX="-3" frameY="-4" frameWidth="540" frameHeight="607" />
+</TextureAtlas>

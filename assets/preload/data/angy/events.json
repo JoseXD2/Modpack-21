@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "cafe",
+		"player1": "bf",
+		"player2": "michael",
+		"player3": null,
+		"events": [
+			[
+				9596.25,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				9601.875,
+				[
+					[
+						"Change Character",
+						"1",
+						"buff"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "angy"
+	}
+}

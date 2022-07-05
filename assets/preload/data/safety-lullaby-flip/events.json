@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "b-alley",
+		"player1": "bgf",
+		"player2": "bhypno",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enable Pendulum",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Safety Lullaby-b-side"
+	}
+}

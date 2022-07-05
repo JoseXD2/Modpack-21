@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Cheating",
+			"bambi_3d",
+			[
+				0,
+				100,
+				0
+			]
+		],
+		[
+			"Cheating-Bandu",
+			"bandu",
+			[
+				0,
+				140,
+				0
+			]
+		],
+		[
+			"Cheating-Bendu",
+			"bendu",
+			[
+				140,
+				140,
+				0
+			]
+		],
+		[
+			"Cheating-Bambom",
+			"bambom",
+			[
+				160,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "Cheating",
+	"difficulties": "Cheating",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Cheating                             .",
+	"weekName": "cheatingdoyouwant",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

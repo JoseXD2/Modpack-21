@@ -1,0 +1,32 @@
+{
+	"storyName": "Try to dodge them all                     .",
+	"difficulties": "Very-Hard, Extreme",
+	"hideFreeplay": false,
+	"weekBackground": "qtermination",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Termination",
+			"kb",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "QTErmin"
+}

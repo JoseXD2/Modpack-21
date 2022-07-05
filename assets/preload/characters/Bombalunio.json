@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bombalunio Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Bombalunio Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				319
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Bombalunio Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "singUP-alt",
+			"fps": 20,
+			"name": "Bombalunio Alt-Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				321
+			],
+			"anim": "singDOWN-alt",
+			"fps": 20,
+			"name": "Bombalunio Alt-Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Bombalunio Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				320
+			],
+			"anim": "singLEFT-alt",
+			"fps": 20,
+			"name": "Bombalunio Alt-Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				317
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Bombalunio Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				320
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 20,
+			"name": "Bombalunio Alt-Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bombalunio",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Bombalunio",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		127,
+		51
+	],
+	"camera_position": [
+		300,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

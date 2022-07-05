@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hand.png"><SubTexture name="hand idle0000" x="0" y="0" width="380" height="314" frameX="-2" frameY="-3" frameWidth="384" frameHeight="319" />
+</TextureAtlas>

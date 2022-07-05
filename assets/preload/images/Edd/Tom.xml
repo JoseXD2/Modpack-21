@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tom.png">
+<SubTexture name="TomIdle0000" x="275" y="0" width="134" height="311" frameX="-3" frameY="0" frameWidth="139" frameHeight="312" />
+<SubTexture name="TomIdol0000" x="409" y="0" width="137" height="310" frameX="0" frameY="-1" frameWidth="137" frameHeight="312" />
+<SubTexture name="TomLooking0000" x="409" y="0" width="137" height="310" frameX="0" frameY="-1" frameWidth="137" frameHeight="312" />
+<SubTexture name="TomReaction0000" x="409" y="0" width="137" height="310" frameX="0" frameY="-1" frameWidth="137" frameHeight="312" />
+<SubTexture name="TomTransition0000" x="546" y="0" width="139" height="309" frameX="0" frameY="-2" frameWidth="142" frameHeight="312" />
+<SubTexture name="TomTransition0001" x="0" y="0" width="136" height="312" frameX="-6" frameY="0" frameWidth="142" frameHeight="312" />
+<SubTexture name="TomWalkingBy0000" x="136" y="0" width="139" height="312" frameX="-19" frameY="-2" frameWidth="159" frameHeight="320" />
+<SubTexture name="TomWalkingBy0001" x="0" y="312" width="135" height="306" frameX="-22" frameY="-11" frameWidth="159" frameHeight="320" />
+<SubTexture name="TomWalkingBy0002" x="135" y="312" width="131" height="304" frameX="-25" frameY="-14" frameWidth="159" frameHeight="320" />
+<SubTexture name="TomWalkingBy0003" x="266" y="312" width="140" height="296" frameX="-14" frameY="-3" frameWidth="159" frameHeight="320" />
+</TextureAtlas>

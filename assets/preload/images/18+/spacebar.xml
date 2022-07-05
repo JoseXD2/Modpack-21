@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="attack_alert_NEW.png">
+<SubTexture name="spacebar0000" x="0" y="0" width="232" height="205" frameX="-13" frameY="-27" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0001" x="232" y="0" width="230" height="203" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0002" x="232" y="0" width="230" height="203" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0003" x="232" y="0" width="230" height="203" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0004" x="232" y="203" width="1" height="1" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0006" x="232" y="203" width="1" height="1" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0007" x="0" y="0" width="232" height="205" frameX="-13" frameY="-27" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0008" x="232" y="0" width="230" height="203" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0009" x="232" y="0" width="230" height="203" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0010" x="232" y="0" width="230" height="203" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0011" x="232" y="203" width="1" height="1" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+<SubTexture name="spacebar0012" x="232" y="203" width="1" height="1" frameX="-14" frameY="-28" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

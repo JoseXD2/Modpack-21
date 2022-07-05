@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="runninguberkid.png"><SubTexture name="UberKidRun0000" x="520" y="0" width="462" height="503" frameX="-64" frameY="0" frameWidth="543" frameHeight="519" />
+<SubTexture name="UberKidRun0001" x="520" y="0" width="462" height="503" frameX="-64" frameY="0" frameWidth="543" frameHeight="519" />
+<SubTexture name="UberKidRun0002" x="0" y="513" width="299" height="463" frameX="-126" frameY="-44" frameWidth="543" frameHeight="519" />
+<SubTexture name="UberKidRun0003" x="0" y="513" width="299" height="463" frameX="-125" frameY="-43" frameWidth="543" frameHeight="519" />
+<SubTexture name="UberKidRun0004" x="0" y="0" width="520" height="513" frameX="0" frameY="-5" frameWidth="543" frameHeight="519" />
+<SubTexture name="UberKidRun0005" x="0" y="0" width="520" height="513" frameX="0" frameY="-4" frameWidth="543" frameHeight="519" />
+</TextureAtlas>

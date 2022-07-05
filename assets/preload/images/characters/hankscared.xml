@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hankscared.png"><SubTexture name="HankScaredIdle0000" x="948" y="1326" width="475" height="592" frameX="-5" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredIdle0001" x="948" y="1326" width="475" height="592" frameX="-5" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredIdle0002" x="1412" y="595" width="472" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredIdle0003" x="1412" y="595" width="472" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredIdle0004" x="0" y="1326" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredIdle0005" x="0" y="1326" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredIdle0006" x="474" y="1326" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredIdle0007" x="474" y="1326" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593" />
+<SubTexture name="HankScaredShootsTiky0000" x="1423" y="1326" width="555" height="592" frameX="0" frameY="-325" frameWidth="991" frameHeight="920" />
+<SubTexture name="HankScaredShootsTiky0001" x="567" y="707" width="642" height="595" frameX="-105" frameY="-325" frameWidth="991" frameHeight="920" />
+<SubTexture name="HankScaredShootsTiky0002" x="1412" y="0" width="657" height="595" frameX="-90" frameY="-325" frameWidth="991" frameHeight="920" />
+<SubTexture name="HankScaredShootsTiky0003" x="0" y="0" width="851" height="707" frameX="-90" frameY="-213" frameWidth="991" frameHeight="920" />
+<SubTexture name="HankScaredShootsTiky0004" x="0" y="707" width="567" height="619" frameX="-104" frameY="-299" frameWidth="991" frameHeight="920" />
+<SubTexture name="HankScaredShootsTiky0005" x="851" y="0" width="561" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920" />
+<SubTexture name="HankScaredShootsTiky0006" x="851" y="0" width="561" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920" />
+</TextureAtlas>

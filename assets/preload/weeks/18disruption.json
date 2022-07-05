@@ -1,0 +1,32 @@
+{
+	"storyName": "I will fucking show you                      .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "disruption",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Disruption",
+			"disrupt",
+			[
+				0,
+				100,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "disruptore"
+}

@@ -1,0 +1,12 @@
+function onCreatePost()
+	setTextFont("timeTxt", "smb2LL.ttf")
+	setTextSize("timeTxt", 24)
+	setProperty("timeTxt.y", getProperty("timeTxt.y") + 4)
+	setTextFont("botplayTxt", "smb2LL.ttf")
+	setTextSize("botplayTxt", 24)
+	setProperty("botplayTxt.x", getProperty("botplayTxt.x") - 8)
+	setTextFont("scoreTxt", "smb2LL.ttf")
+	setTextSize("scoreTxt", 16)
+	setTextFont('JukeBoxText', 'smb2LL.ttf')
+	setTextFont('JukeBoxSubText', 'smb2LL.ttf')
+end

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambi-old-night.png"><SubTexture name="MARCELLO NOTE DOWN0000" x="225" y="706" width="219" height="308" frameX="-45" frameY="-57" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO NOTE DOWN0001" x="444" y="706" width="219" height="304" frameX="-45" frameY="-62" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO idle dance0000" x="438" y="0" width="224" height="347" frameX="-59" frameY="-34" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO idle dance0001" x="662" y="0" width="230" height="347" frameX="-55" frameY="-34" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO idle dance0002" x="222" y="360" width="241" height="345" frameX="-43" frameY="-36" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO idle dance0003" x="892" y="0" width="252" height="342" frameX="-35" frameY="-39" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO NOTE LEFT0000" x="892" y="342" width="222" height="337" frameX="-31" frameY="-41" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO NOTE LEFT0001" x="0" y="706" width="225" height="334" frameX="-32" frameY="-44" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO NOTE RIGHT0000" x="0" y="360" width="222" height="346" frameX="-39" frameY="-31" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO NOTE RIGHT0001" x="463" y="360" width="226" height="344" frameX="-33" frameY="-34" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO NOTE UP0000" x="219" y="0" width="219" height="353" frameX="-47" frameY="-32" frameWidth="335" frameHeight="410" />
+<SubTexture name="MARCELLO NOTE UP0001" x="0" y="0" width="219" height="360" frameX="-45" frameY="-25" frameWidth="335" frameHeight="410" />
+</TextureAtlas>

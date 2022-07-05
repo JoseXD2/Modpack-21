@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DaveInsanityB.png"><SubTexture name="Down0000" x="861" y="1177" width="337" height="551" frameX="-10" frameY="0" frameWidth="353" frameHeight="551" />
+<SubTexture name="Down0001" x="1198" y="1177" width="345" height="544" frameX="-4" frameY="-7" frameWidth="353" frameHeight="551" />
+<SubTexture name="Down0002" x="1543" y="1177" width="353" height="541" frameX="0" frameY="-10" frameWidth="353" frameHeight="551" />
+<SubTexture name="Idle0000" x="1581" y="569" width="326" height="562" frameX="0" frameY="-23" frameWidth="326" frameHeight="585" />
+<SubTexture name="Idle0001" x="1267" y="0" width="314" height="570" frameX="-4" frameY="-15" frameWidth="326" frameHeight="585" />
+<SubTexture name="Idle0002" x="955" y="0" width="312" height="585" frameX="-9" frameY="0" frameWidth="326" frameHeight="585" />
+<SubTexture name="Left0000" x="0" y="604" width="376" height="573" frameX="-8" frameY="0" frameWidth="389" frameHeight="573" />
+<SubTexture name="Left0001" x="376" y="604" width="380" height="573" frameX="-8" frameY="0" frameWidth="389" frameHeight="573" />
+<SubTexture name="Left0002" x="756" y="604" width="388" height="573" frameX="0" frameY="0" frameWidth="389" frameHeight="573" />
+<SubTexture name="Right0000" x="1581" y="0" width="403" height="569" frameX="-18" frameY="0" frameWidth="431" frameHeight="570" />
+<SubTexture name="Right0001" x="0" y="1177" width="430" height="569" frameX="0" frameY="0" frameWidth="431" frameHeight="570" />
+<SubTexture name="Right0002" x="430" y="1177" width="431" height="569" frameX="0" frameY="0" frameWidth="431" frameHeight="570" />
+<SubTexture name="Up0000" x="638" y="0" width="317" height="599" frameX="-6" frameY="-5" frameWidth="324" frameHeight="604" />
+<SubTexture name="Up0001" x="0" y="0" width="320" height="604" frameX="0" frameY="0" frameWidth="324" frameHeight="604" />
+<SubTexture name="Up0002" x="320" y="0" width="318" height="604" frameX="0" frameY="0" frameWidth="324" frameHeight="604" />
+</TextureAtlas>

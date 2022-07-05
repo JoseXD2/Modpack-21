@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				320
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Henron Idle"
+		},
+		{
+			"offsets": [
+				23,
+				313
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Henron Up"
+		},
+		{
+			"offsets": [
+				-159,
+				319
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Henron Down"
+		},
+		{
+			"offsets": [
+				104,
+				322
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Henron Left"
+		},
+		{
+			"offsets": [
+				-296,
+				293
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Henron Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Henron",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Henron",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		170,
+		-340
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Delirium",
+			"conbi",
+			[
+				60,
+				20,
+				80
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "delirium",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "delirium                             .",
+	"weekName": "deliri",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

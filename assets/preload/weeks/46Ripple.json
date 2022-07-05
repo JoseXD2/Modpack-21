@@ -1,0 +1,32 @@
+{
+	"storyName": "Dude what the funk?                       .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Ripple",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ripple",
+			"ripple",
+			[
+				235,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "rippleassetses"
+}

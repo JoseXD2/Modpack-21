@@ -1,0 +1,77 @@
+{
+	"storyName": "Pixel adventure                         .",
+	"difficulties": "Pixel",
+	"hideFreeplay": false,
+	"weekBackground": "PixelGf",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"dad-battle",
+			"dad-erec",
+			[
+				106,
+				53,
+				213
+			]
+		],
+		[
+			"Dreams of roses",
+			"senpai-pixel",
+			[
+				200,
+				140,
+				0
+			]
+		],
+		[
+			"manifest senpai",
+			"spirit-pixel",
+			[
+				160,
+				0,
+				40
+			]
+		],
+		[
+			"epiphany",
+			"monika-angry",
+			[
+				120,
+				160,
+				255
+			]
+		],
+		[
+			"expurgation",
+			"extricky",
+			[
+				160,
+				0,
+				0
+			]
+		],
+		[
+			"perfume",
+			"pixelgf",
+			[
+				255,
+				0,
+				200
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "pixeladventureofgf"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Spooky light",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "neo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Spookeez",
+			"spookyneo",
+			[
+				0,
+				100,
+				220
+			]
+		],
+		[
+			"South",
+			"spookyneo",
+			[
+				100,
+				0,
+				220
+			]
+		],
+		[
+			"Illusion",
+			"monsterneo",
+			[
+				140,
+				0,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "neonomiSpookez"
+}

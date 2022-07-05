@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rocket Note.png"><SubTexture name="Rocket!!!!0000" x="312" y="0" width="160" height="383" frameX="0" frameY="0" frameWidth="165" frameHeight="419" />
+<SubTexture name="Rocket!!!!0001" x="0" y="0" width="156" height="419" frameX="-4" frameY="0" frameWidth="165" frameHeight="419" />
+<SubTexture name="Rocket!!!!0002" x="156" y="0" width="156" height="392" frameX="-4" frameY="0" frameWidth="165" frameHeight="419" />
+</TextureAtlas>

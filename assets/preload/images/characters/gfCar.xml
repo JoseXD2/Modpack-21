@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfCar.png">
+<SubTexture name="GF Dancing Beat Hair blowing CAR0000" x="716" y="649" width="699" height="634" frameX="-2" frameY="-15" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0001" x="0" y="1934" width="728" height="626" frameX="0" frameY="-23" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0002" x="2172" y="630" width="699" height="625" frameX="-2" frameY="-24" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0003" x="1423" y="0" width="749" height="639" frameX="-2" frameY="-10" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0004" x="1423" y="639" width="698" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0005" x="0" y="0" width="712" height="649" frameX="-2" frameY="0" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0006" x="712" y="0" width="711" height="648" frameX="-2" frameY="-1" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0007" x="728" y="1934" width="712" height="625" frameX="-2" frameY="-24" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0008" x="756" y="1295" width="729" height="634" frameX="0" frameY="-15" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0009" x="2172" y="0" width="707" height="630" frameX="-2" frameY="-19" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0010" x="0" y="649" width="716" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0011" x="0" y="1295" width="756" height="639" frameX="-2" frameY="-10" frameWidth="774" frameHeight="649" />
+</TextureAtlas> -- you can use this spritesheet but dont delete this text made by misha21220

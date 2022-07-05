@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"RUSH E",
+			"temp",
+			[
+				0,
+				120,
+				200
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "E",
+	"difficulties": "Insanity",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "rush .E.                            .",
+	"weekName": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

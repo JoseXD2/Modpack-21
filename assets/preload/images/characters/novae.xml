@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="novae.png"><SubTexture name="Bambert idle0000" x="1465" y="360" width="338" height="359" frameX="-62" frameY="-10" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0001" x="1465" y="360" width="338" height="359" frameX="-62" frameY="-10" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0002" x="1128" y="0" width="337" height="367" frameX="-63" frameY="-2" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0003" x="1128" y="0" width="337" height="367" frameX="-63" frameY="-1" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0004" x="1128" y="367" width="333" height="364" frameX="-36" frameY="-5" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0005" x="1128" y="367" width="333" height="364" frameX="-36" frameY="-4" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0006" x="0" y="841" width="341" height="367" frameX="-3" frameY="-2" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0007" x="0" y="841" width="341" height="367" frameX="-3" frameY="-1" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0008" x="626" y="466" width="341" height="369" frameX="0" frameY="0" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0009" x="626" y="466" width="341" height="369" frameX="0" frameY="0" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0010" x="626" y="466" width="341" height="369" frameX="0" frameY="0" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert idle0011" x="626" y="466" width="341" height="369" frameX="0" frameY="0" frameWidth="401" frameHeight="369" />
+<SubTexture name="Bambert note Right0000" x="341" y="841" width="387" height="364" frameX="-7" frameY="-11" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0001" x="341" y="841" width="387" height="364" frameX="-7" frameY="-11" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0002" x="728" y="841" width="381" height="364" frameX="-6" frameY="-11" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0003" x="728" y="841" width="381" height="364" frameX="-6" frameY="-11" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0004" x="0" y="466" width="312" height="375" frameX="0" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0005" x="0" y="466" width="312" height="375" frameX="0" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0006" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0007" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0008" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0009" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0010" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0011" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0012" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note Right0013" x="312" y="466" width="314" height="375" frameX="-3" frameY="0" frameWidth="395" frameHeight="375" />
+<SubTexture name="Bambert note down0000" x="1402" y="1208" width="354" height="287" frameX="0" frameY="-25" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0001" x="1402" y="1208" width="354" height="287" frameX="0" frameY="-24" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0002" x="1049" y="1208" width="353" height="292" frameX="-1" frameY="-20" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0003" x="1049" y="1208" width="353" height="292" frameX="-1" frameY="-20" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0004" x="731" y="1208" width="318" height="307" frameX="-11" frameY="-4" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0005" x="731" y="1208" width="318" height="307" frameX="-11" frameY="-4" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0006" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0007" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0008" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0009" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0010" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0011" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0012" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note down0013" x="1465" y="719" width="314" height="311" frameX="-12" frameY="0" frameWidth="355" frameHeight="312" />
+<SubTexture name="Bambert note left0000" x="0" y="1208" width="364" height="356" frameX="-2" frameY="-5" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0001" x="0" y="1208" width="364" height="356" frameX="-2" frameY="-5" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0002" x="364" y="1208" width="367" height="356" frameX="0" frameY="-5" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0003" x="364" y="1208" width="367" height="356" frameX="0" frameY="-5" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0004" x="1465" y="0" width="349" height="360" frameX="-28" frameY="-1" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0005" x="1465" y="0" width="349" height="360" frameX="-28" frameY="-1" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0006" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0007" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0008" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0009" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0010" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0011" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0012" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note left0013" x="1109" y="841" width="347" height="361" frameX="-31" frameY="0" frameWidth="378" frameHeight="361" />
+<SubTexture name="Bambert note up0000" x="0" y="0" width="271" height="466" frameX="0" frameY="0" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0001" x="0" y="0" width="271" height="466" frameX="0" frameY="0" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0002" x="271" y="0" width="280" height="462" frameX="0" frameY="-4" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0003" x="271" y="0" width="280" height="462" frameX="0" frameY="-4" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0004" x="551" y="0" width="287" height="450" frameX="-1" frameY="-16" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0005" x="551" y="0" width="287" height="450" frameX="-1" frameY="-16" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0006" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0007" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0008" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0009" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0010" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0011" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0012" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+<SubTexture name="Bambert note up0013" x="838" y="0" width="290" height="448" frameX="-1" frameY="-18" frameWidth="291" frameHeight="466" />
+</TextureAtlas>

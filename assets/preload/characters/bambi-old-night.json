@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MARCELLO idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MARCELLO NOTE UP"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MARCELLO NOTE DOWN"
+		},
+		{
+			"offsets": [
+				7,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MARCELLO MISS LEFT"
+		},
+		{
+			"offsets": [
+				-15,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MARCELLO MISS DOWN"
+		},
+		{
+			"offsets": [
+				-16,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MARCELLO MISS UP"
+		},
+		{
+			"offsets": [
+				-44,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MARCELLO MISS RIGHT"
+		},
+		{
+			"offsets": [
+				7,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MARCELLO dead"
+		},
+		{
+			"offsets": [
+				7,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "MARCELLO dead"
+		},
+		{
+			"offsets": [
+				7,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "MARCELLO dead"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MARCELLO NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MARCELLO NOTE RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi-old-night",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bambiold",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		175,
+		15
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "woah!!! this party place looks epico!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "daveinsanity",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh No! Not him i gotta get outta here!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhhhh ok??         i dont see the problemo here though...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OH WAIT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "your uhhh..... supernovae??? or nupersovae??? i uhhhh dont really know nor care..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "MEAN!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was hella rude mah boi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK LETSSTARTWITHCHILL SONG!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "oh ummm rapping?? sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ugh.."
+		}
+	]
+}

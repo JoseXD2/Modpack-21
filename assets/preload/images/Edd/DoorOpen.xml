@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DoorOpen.png"><SubTexture name="Door Opening0000" x="203" y="0" width="201" height="241" frameX="-2" frameY="-13" frameWidth="203" frameHeight="254" />
+<SubTexture name="Door Opening0001" x="203" y="0" width="201" height="241" frameX="-2" frameY="-13" frameWidth="203" frameHeight="254" />
+<SubTexture name="Door Opening0002" x="0" y="0" width="203" height="251" frameX="0" frameY="-1" frameWidth="203" frameHeight="254" />
+<SubTexture name="Door Opening0003" x="0" y="0" width="203" height="251" frameX="0" frameY="0" frameWidth="203" frameHeight="254" />
+</TextureAtlas>

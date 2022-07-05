@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf-handsup.png">
+<SubTexture name="gf handsup0000" x="0" y="0" width="496" height="459" frameX="-2" frameY="-2" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0000" x="990" y="0" width="494" height="447" frameX="-2" frameY="-14" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0001" x="990" y="447" width="494" height="445" frameX="-2" frameY="-16" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0002" x="496" y="0" width="494" height="452" frameX="-2" frameY="-9" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0003" x="496" y="0" width="494" height="452" frameX="-2" frameY="-9" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0004" x="494" y="459" width="494" height="448" frameX="-2" frameY="-13" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0005" x="0" y="459" width="494" height="449" frameX="-2" frameY="-12" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0006" x="496" y="0" width="494" height="452" frameX="-2" frameY="-9" frameWidth="501" frameHeight="463" />
+<SubTexture name="gf idle0007" x="496" y="0" width="494" height="452" frameX="-2" frameY="-9" frameWidth="501" frameHeight="463" />
+</TextureAtlas>

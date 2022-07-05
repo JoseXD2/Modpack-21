@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "sweat",
+			"text": "Who the hell are you!?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "1",
+			"text": "No need to chat... just come with me and everything will be okay... for everyone.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "2",
+			"text": "If you're smart you'll just come with us...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "angry",
+			"text": "FUCK YOU, I'll kick your ass, man!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  },
+	  {
+			"expression": "1",
+			"text": "So unwise...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+	  }
+	]
+}

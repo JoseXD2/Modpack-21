@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-132,
+				-217
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Supernovae right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-186
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Supernovae up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-253
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Supernovae down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-224
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Supernovae left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				-210
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Supernovae idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/superock light",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "super",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		181,
+		0
+	],
+	"camera_position": [
+		170,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

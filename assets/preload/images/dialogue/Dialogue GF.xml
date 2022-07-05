@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dialogue GF.png">
+<SubTexture name="GF Sprite 10000" x="493" y="0" width="546" height="643" frameX="-8" frameY="-4" frameWidth="576" frameHeight="650" />
+<SubTexture name="GF Sprite 20000" x="0" y="0" width="493" height="706" frameX="-40" frameY="0" frameWidth="572" frameHeight="738" />
+<SubTexture name="GF Sprite 30000" x="0" y="706" width="739" height="612" frameX="0" frameY="-32" frameWidth="739" frameHeight="644" />
+<SubTexture name="GF Sprite 40000" x="1039" y="0" width="706" height="639" frameX="-4" frameY="-2" frameWidth="714" frameHeight="644" />
+</TextureAtlas>

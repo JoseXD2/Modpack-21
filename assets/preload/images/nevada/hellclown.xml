@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hellclown.png"><SubTexture name="hellclown idle0000" x="0" y="0" width="712" height="1135" frameX="-1" frameY="-3" frameWidth="730" frameHeight="1182" />
+</TextureAtlas>

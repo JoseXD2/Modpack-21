@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TV_V5.png">
+<SubTexture name="TV_Attention0000" x="0" y="0" width="1503" height="270" frameX="0" frameY="0" frameWidth="1503" frameHeight="270" />
+<SubTexture name="TV_Bluescreen0000" x="0" y="270" width="1503" height="270" frameX="0" frameY="0" frameWidth="1503" frameHeight="270" />
+<SubTexture name="TV_Drop0000" x="0" y="540" width="1503" height="270" frameX="0" frameY="0" frameWidth="1503" frameHeight="270" />
+<SubTexture name="TV_End0000" x="0" y="540" width="1503" height="270" frameX="0" frameY="0" frameWidth="1503" frameHeight="270" />
+<SubTexture name="TV_GoodLuck0000" x="0" y="540" width="1503" height="270" frameX="0" frameY="0" frameWidth="1503" frameHeight="270" />
+<SubTexture name="TV_Idle0000" x="0" y="540" width="1503" height="270" frameX="0" frameY="0" frameWidth="1503" frameHeight="270" />
+<SubTexture name="TV_Instructions-Normal0000" x="0" y="810" width="1503" height="270" frameX="-1" frameY="-1" frameWidth="1504" frameHeight="271" />
+<SubTexture name="TV_Watchout0000" x="0" y="0" width="1503" height="270" frameX="0" frameY="0" frameWidth="1503" frameHeight="270" />
+<SubTexture name="TV_brutality0000" x="0" y="1080" width="1503" height="270" frameX="-1" frameY="0" frameWidth="1504" frameHeight="270" />
+<SubTexture name="TV_eyeLeft0000" x="0" y="1080" width="1503" height="270" frameX="-1" frameY="0" frameWidth="1504" frameHeight="270" />
+<SubTexture name="TV_eyeRight0000" x="0" y="1080" width="1503" height="270" frameX="-1" frameY="0" frameWidth="1504" frameHeight="270" />
+<SubTexture name="TV_eyes-OLD0000" x="0" y="1080" width="1503" height="270" frameX="-1" frameY="0" frameWidth="1504" frameHeight="270" />
+<SubTexture name="TV_sus0000" x="0" y="1080" width="1503" height="270" frameX="-1" frameY="0" frameWidth="1504" frameHeight="270" />
+</TextureAtlas>

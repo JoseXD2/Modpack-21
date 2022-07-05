@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monster.png"><SubTexture name="lemon frame 0000" x="0" y="0" width="799" height="554" frameX="0" frameY="-17" frameWidth="828" frameHeight="593" />
+<SubTexture name="lemon frame 0001" x="799" y="0" width="639" height="491" frameX="-65" frameY="-23" frameWidth="828" frameHeight="593" />
+</TextureAtlas>

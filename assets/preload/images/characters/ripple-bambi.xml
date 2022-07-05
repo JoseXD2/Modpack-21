@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ripple-bambi.png"><SubTexture name="Ripple Down0000" x="2898" y="0" width="862" height="746" frameX="-366" frameY="-436" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Down0001" x="1068" y="1884" width="972" height="749" frameX="-288" frameY="-345" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Down0002" x="0" y="1884" width="1068" height="781" frameX="-248" frameY="-297" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Idle0000" x="964" y="1018" width="588" height="842" frameX="-356" frameY="-260" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Idle0001" x="2316" y="0" width="582" height="782" frameX="-410" frameY="-296" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Idle0002" x="2898" y="1480" width="646" height="732" frameX="-380" frameY="-432" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Idle0003" x="2316" y="782" width="582" height="782" frameX="-410" frameY="-296" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Idle0004" x="1552" y="1018" width="588" height="842" frameX="-356" frameY="-260" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Left0000" x="2898" y="746" width="783" height="734" frameX="-19" frameY="-352" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Left0001" x="2040" y="1884" width="741" height="694" frameX="-37" frameY="-400" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Left0002" x="1741" y="2665" width="730" height="688" frameX="-46" frameY="-408" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Left0003" x="1000" y="2665" width="741" height="694" frameX="-37" frameY="-400" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Right0000" x="1430" y="0" width="886" height="999" frameX="-382" frameY="-116" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Right0001" x="664" y="0" width="766" height="1005" frameX="-520" frameY="-113" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Right0002" x="0" y="0" width="664" height="1018" frameX="-648" frameY="-136" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Up0000" x="0" y="1018" width="964" height="866" frameX="-158" frameY="-56" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Up0001" x="0" y="2665" width="1000" height="730" frameX="-132" frameY="-30" frameWidth="1324" frameHeight="1364" />
+<SubTexture name="Ripple Up0002" x="2471" y="2665" width="1066" height="640" frameX="-104" frameY="-6" frameWidth="1324" frameHeight="1364" />
+</TextureAtlas>

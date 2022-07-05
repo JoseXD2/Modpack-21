@@ -1,0 +1,3 @@
+zoomin
+
+Value 1: camera zoom

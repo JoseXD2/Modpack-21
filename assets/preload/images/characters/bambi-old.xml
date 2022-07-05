@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambi-old.png">
+<SubTexture name="MARCELLO idle dance0000" x="438" y="369" width="224" height="347"/>
+<SubTexture name="MARCELLO idle dance0001" x="876" y="0" width="230" height="347"/>
+<SubTexture name="MARCELLO idle dance0002" x="0" y="729" width="241" height="345" />
+<SubTexture name="MARCELLO idle dance0003" x="0" y="1074" width="252" height="342"/>
+<SubTexture name="MARCELLO NOTE DOWN0000" x="954" y="1074" width="219" height="308"/>
+<SubTexture name="MARCELLO NOTE DOWN0001" x="1173" y="1074" width="219" height="304"/>
+<SubTexture name="MARCELLO NOTE DOWN0002" x="1577" y="0" width="219" height="302"/>
+<SubTexture name="MARCELLO NOTE DOWN0003" x="1577" y="302" width="219" height="300"/>
+<SubTexture name="MARCELLO NOTE DOWN0004" x="1577" y="602" width="219" height="299"/>
+<SubTexture name="MARCELLO NOTE DOWN0005" x="1577" y="901" width="219" height="299"/>
+<SubTexture name="MARCELLO NOTE LEFT0000" x="1341" y="344" width="222" height="337"/>
+<SubTexture name="MARCELLO NOTE LEFT0001" x="1341" y="681" width="225" height="334"/>
+<SubTexture name="MARCELLO NOTE LEFT0002" x="1106" y="344" width="227" height="334"/>
+<SubTexture name="MARCELLO NOTE LEFT0003" x="1106" y="678" width="229" height="334"/>
+<SubTexture name="MARCELLO NOTE LEFT0004" x="252" y="1074" width="232" height="334"/>
+<SubTexture name="MARCELLO NOTE LEFT0005" x="484" y="1074" width="235" height="334"/>
+<SubTexture name="MARCELLO NOTE LEFT0006" x="719" y="1074" width="235" height="334"/>
+<SubTexture name="MARCELLO NOTE RIGHT0000" x="876" y="347" width="222" height="346"/>
+<SubTexture name="MARCELLO NOTE RIGHT0001" x="241" y="729" width="226" height="344"/>
+<SubTexture name="MARCELLO NOTE RIGHT0002" x="467" y="729" width="229" height="344"/>
+<SubTexture name="MARCELLO NOTE RIGHT0003" x="696" y="729" width="232" height="344"/>
+<SubTexture name="MARCELLO NOTE RIGHT0004" x="1106" y="0" width="235" height="344"/>
+<SubTexture name="MARCELLO NOTE RIGHT0005" x="1341" y="0" width="236" height="344"/>
+<SubTexture name="MARCELLO NOTE UP0000" x="219" y="369" width="219" height="353"/>
+<SubTexture name="MARCELLO NOTE UP0001" x="0" y="369" width="219" height="360"/>
+<SubTexture name="MARCELLO NOTE UP0002" x="657" y="0" width="219" height="362"/>
+<SubTexture name="MARCELLO NOTE UP0003" x="438" y="0" width="219" height="364"/>
+<SubTexture name="MARCELLO NOTE UP0004" x="219" y="0" width="219" height="367"/>
+<SubTexture name="MARCELLO NOTE UP0005" x="0" y="0" width="219" height="369"/>
+</TextureAtlas>

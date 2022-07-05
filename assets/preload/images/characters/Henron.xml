@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Henron.png"><SubTexture name="Henron Idle0000" x="1290" y="1735" width="515" height="781" frameX="-232" frameY="-74" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Idle0001" x="0" y="1735" width="471" height="792" frameX="-233" frameY="-70" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Idle0002" x="2406" y="0" width="446" height="814" frameX="-218" frameY="-54" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Idle0003" x="1982" y="0" width="424" height="828" frameX="-213" frameY="-44" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Up0000" x="0" y="0" width="670" height="883" frameX="-98" frameY="0" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Up0001" x="670" y="0" width="636" height="865" frameX="-114" frameY="-18" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Up0002" x="659" y="883" width="588" height="836" frameX="-133" frameY="-38" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Down0000" x="1624" y="2527" width="831" height="631" frameX="-35" frameY="-234" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Down0001" x="802" y="2527" width="822" height="646" frameX="-29" frameY="-223" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Down0002" x="0" y="2527" width="802" height="658" frameX="-22" frameY="-213" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Left0000" x="1306" y="0" width="676" height="864" frameX="-69" frameY="-1" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Left0001" x="0" y="883" width="659" height="852" frameX="-89" frameY="-20" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Left0002" x="1247" y="883" width="641" height="833" frameX="-107" frameY="-41" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Right0000" x="471" y="1735" width="819" height="787" frameX="-64" frameY="-89" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Right0001" x="1805" y="1735" width="796" height="769" frameX="-73" frameY="-93" frameWidth="912" frameHeight="912" />
+<SubTexture name="Henron Right0002" x="2852" y="0" width="769" height="750" frameX="-81" frameY="-99" frameWidth="912" frameHeight="912" />
+</TextureAtlas>

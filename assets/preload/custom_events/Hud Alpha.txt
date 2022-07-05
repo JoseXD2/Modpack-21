@@ -1,0 +1,3 @@
+value 1:Duration
+
+value 2: visibility 

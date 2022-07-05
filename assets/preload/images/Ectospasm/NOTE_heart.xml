@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_heart.png"><SubTexture name="blue0000" x="0" y="0" width="179" height="162" frameX="0" frameY="0" frameWidth="179" frameHeight="162" />
+<SubTexture name="green0000" x="0" y="0" width="179" height="162" frameX="0" frameY="0" frameWidth="179" frameHeight="162" />
+<SubTexture name="purple0000" x="0" y="0" width="179" height="162" frameX="0" frameY="0" frameWidth="179" frameHeight="162" />
+<SubTexture name="red0000" x="0" y="0" width="179" height="162" frameX="0" frameY="0" frameWidth="179" frameHeight="162" />
+</TextureAtlas>

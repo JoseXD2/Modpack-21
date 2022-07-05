@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stanford.png"><SubTexture name="stanford dance0000" x="518" y="0" width="381" height="229" frameX="-7" frameY="-2" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0000" x="0" y="0" width="518" height="251" frameX="123" frameY="-10" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0001" x="0" y="251" width="369" height="240" frameX="-16" frameY="8" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0002" x="518" y="229" width="381" height="229" frameX="-9" frameY="-3" frameWidth="591" frameHeight="631" />
+</TextureAtlas>

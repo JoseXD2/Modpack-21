@@ -1,0 +1,104 @@
+{
+	"storyName": "Best Songs gapple 1.2                     .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Gapple",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Alternate",
+			"david",
+			[
+				140,
+				140,
+				0
+			]
+		],
+		[
+			"Dale",
+			"dale",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Galactic",
+			"super",
+			[
+				1,
+				80,
+				0
+			]
+		],
+		[
+			"Keyboard",
+			"bendu",
+			[
+				200,
+				200,
+				0
+			]
+		],
+		[
+			"KeyboardOld",
+			"bendu",
+			[
+				200,
+				200,
+				0
+			]
+		],
+		[
+			"Strawberry",
+			"bambom",
+			[
+				180,
+				0,
+				0
+			]
+		],
+		[
+			"Ticking",
+			"ticking",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"Ready-loud",
+			"bandu",
+			[
+				0,
+				160,
+				0
+			]
+		],
+		[
+			"Slices",
+			"bandu",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "GAPPLEEEEEEEEE",
+	"hiddenUntilUnlocked": false
+}

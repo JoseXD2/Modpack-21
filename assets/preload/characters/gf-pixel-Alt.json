@@ -1,0 +1,387 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 20,
+			"name": "GF Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "GF left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 20,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "GF Right Note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-1
+			],
+			"fps": 21,
+			"anim": "hairBlow",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF Dancing Beat Hair blowing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 22,
+			"anim": "hairFall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "GF Dancing Beat Hair Landing"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"anim": "sad",
+			"fps": 20,
+			"name": "gf sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 22,
+			"name": "GF FEAR",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 20,
+			"name": "GF left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 20,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 20,
+			"name": "GF Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 20,
+			"name": "GF Right Note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-1
+			],
+			"fps": 21,
+			"anim": "hairBlow-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF Dancing Alt Beat Hair blowing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 22,
+			"anim": "hairFall-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "GF Dancing Alt Beat Hair Landing"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 20,
+			"name": "GF left MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 20,
+			"name": "GF Down MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 20,
+			"name": "GF Up MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 20,
+			"name": "GF Right MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BoomboxGf/gfPixel-alt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "PixelGf-Alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		40,
+		86
+	],
+	"camera_position": [
+		-410,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 5.99999999999999
+}

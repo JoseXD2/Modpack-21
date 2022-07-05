@@ -1,0 +1,4 @@
+[178[ [179[ [223[ [216[ |run| *100* =1= #dialogue_bob#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bob-hell: !default! [Pixel Arial 11 Bold[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #dialogue_bob# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      
+:bf-pixel: !default! [Pixel Arial 11 Bold[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #dialogue_bob# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      boop ski bep
+:bob-hell: !default! [Pixel Arial 11 Bold[ ]48] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #dialogue_bob# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      

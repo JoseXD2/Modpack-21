@@ -1,0 +1,13 @@
+ModPack
+Misha21220::misha::Created Modpack, optimized mods and ported few songs::https://www.youtube.com/channel/UCjjgTnBqLfHRdZ-WyYpNWGw::8B0000
+Peoples who helped
+Wubbzyfan::wubbzyfan::Made Opponent Note Splashes with scroll supports::https://www.youtube.com/channel/UCZzcCPACQErZbOl4JK_xz1Q::00BDFF
+OpponentNoteSplashes::ModBanana::mod::https://gamebanana.com/mods/375161::e6ed0c
+Epoli::NoIcon::Made Pixeleted Note Splashes::https://gamebanana.com/members/1998507::8B0000
+PixelatedNoteSplashes::ModBanana::mod::https://gamebanana.com/mods/360401::e6ed0c
+Poobie1::poobie1::Converted modchart iron bomber lua from kade to psych::https://github.com/poobie1::FFFFFFF
+IronBomberPEport::ModBanana::mod::https://gamebanana.com/mods/377301::e6ed0c
+Andrew.::NoIcon::Made Stats script::https://discord.com/channels/922849922175340586/922851578996744252/975057339021398016::0038a8
+Stats Lua Script::discord::script.lua::https://discord.com/channels/922849922175340586/922851578996744252/975057339021398016::0038a8
+SereBeat::SereBeat::Reanimated fnf owner::https://gamebanana.com/members/1819550::282828
+Reanimated FNF mod::ModBanana::mod::https://gamebanana.com/mods/307023::e6ed0c

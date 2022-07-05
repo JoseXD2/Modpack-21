@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Rules",
+			"rules",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "RUles",
+	"difficulties": "Rules",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Rules                              .",
+	"weekName": "rules s",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

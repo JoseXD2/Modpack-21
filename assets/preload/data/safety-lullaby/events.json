@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "alley",
+		"player1": "gf",
+		"player2": "hypno",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enable Pendulum",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Safety Lullaby"
+	}
+}

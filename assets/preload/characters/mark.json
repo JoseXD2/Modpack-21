@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "markidle"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "leftmark"
+		},
+		{
+			"offsets": [
+				-17,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "upmark"
+		},
+		{
+			"offsets": [
+				10,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "downmark"
+		},
+		{
+			"offsets": [
+				-10,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "markright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mark_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "markicons",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

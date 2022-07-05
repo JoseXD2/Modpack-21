@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BanduIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BanduIDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BanduLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BanduRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				220
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BanduUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bandu",
+	"position": [
+		-90,
+		-60
+	],
+	"healthicon": "bandut",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		0
+	],
+	"camera_position": [
+		110,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pendelum_Phase2.png"><SubTexture name="Pendelum Phase 0000" x="0" y="0" width="139" height="327" frameX="0" frameY="0" frameWidth="139" frameHeight="327" />
+<SubTexture name="Pendelum Phase 0001" x="0" y="0" width="139" height="327" frameX="0" frameY="0" frameWidth="139" frameHeight="327" />
+<SubTexture name="Pendelum Phase 0002" x="139" y="0" width="139" height="327" frameX="0" frameY="0" frameWidth="139" frameHeight="327" />
+<SubTexture name="Pendelum Phase 0003" x="139" y="0" width="139" height="327" frameX="0" frameY="0" frameWidth="139" frameHeight="327" />
+</TextureAtlas>

@@ -1,0 +1,41 @@
+{
+	"storyName": "ZArdy Maze                            .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "zardy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Foolhardy",
+			"zardymybeloved",
+			[
+				40,
+				100,
+				40
+			]
+		],
+		[
+			"Bushwhack",
+			"zardybutdark",
+			[
+				20,
+				40,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "zardyweeeeek",
+	"hiddenUntilUnlocked": false
+}

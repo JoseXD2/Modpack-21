@@ -1,0 +1,67 @@
+{
+	"storyName": "week score: bambi bambi bambi bambi bambi bambi bambi bambi bambi.",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "bambb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"supernovae",
+			"bambi_old",
+			[
+				0,
+				160,
+				0
+			]
+		],
+		[
+			"glitch",
+			"bambi_old",
+			[
+				0,
+				100,
+				0
+			]
+		],
+		[
+			"vs-dave-thanksgiving",
+			"bambi_old",
+			[
+				0,
+				160,
+				0
+			]
+		],
+		[
+			"cheating",
+			"bambi_3d",
+			[
+				0,
+				80,
+				0
+			]
+		],
+		[
+			"unfairness",
+			"bambi_unfairness",
+			[
+				80,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

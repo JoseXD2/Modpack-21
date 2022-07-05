@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="arena-characters.png"><SubTexture name="bg-characters0000" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-33" frameWidth="2560" frameHeight="344" />
+<SubTexture name="bg-characters0001" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-27" frameWidth="2560" frameHeight="344" />
+<SubTexture name="bg-characters0002" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-23" frameWidth="2560" frameHeight="344" />
+<SubTexture name="bg-characters0003" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-24" frameWidth="2560" frameHeight="344" />
+<SubTexture name="bg-characters0004" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-24" frameWidth="2560" frameHeight="344" />
+<SubTexture name="bg-characters0005" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-24" frameWidth="2560" frameHeight="344" />
+<SubTexture name="bg-characters0006" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-24" frameWidth="2560" frameHeight="344" />
+<SubTexture name="bg-characters0007" x="0" y="0" width="2503" height="306" frameX="-57" frameY="-24" frameWidth="2560" frameHeight="344" />
+</TextureAtlas>

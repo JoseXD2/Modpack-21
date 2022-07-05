@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ManifestIcons.png"><SubTexture name="ManifestAngryIcon0000" x="0" y="0" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0001" x="128" y="0" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0002" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0003" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0004" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0005" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0006" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0007" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0008" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestAngryIcon0009" x="0" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0000" x="128" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0001" x="256" y="0" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0002" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0003" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0004" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0005" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0006" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0007" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0008" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+<SubTexture name="ManifestNormalIcon0009" x="256" y="117" width="128" height="117" frameX="0" frameY="0" frameWidth="128" frameHeight="117" />
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dundio.png"><SubTexture name="Dundio Idle0000" x="0" y="0" width="614" height="972" frameX="-200" frameY="-15" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Idle0001" x="614" y="0" width="587" height="944" frameX="-214" frameY="-25" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Idle0002" x="805" y="972" width="568" height="911" frameX="-220" frameY="-44" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Idle0003" x="1373" y="972" width="525" height="888" frameX="-230" frameY="-55" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Idle0004" x="0" y="1888" width="524" height="873" frameX="-225" frameY="-70" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Idle0005" x="1373" y="972" width="525" height="888" frameX="-230" frameY="-55" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Up0000" x="1201" y="0" width="899" height="917" frameX="-51" frameY="-17" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Up0001" x="2100" y="0" width="854" height="879" frameX="-79" frameY="-33" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Up0002" x="1212" y="1888" width="808" height="838" frameX="-98" frameY="-55" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Down0000" x="2020" y="1888" width="542" height="815" frameX="-218" frameY="-62" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Down0001" x="2954" y="0" width="539" height="815" frameX="-219" frameY="-61" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Down0002" x="2954" y="815" width="536" height="814" frameX="-221" frameY="-59" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Left0000" x="0" y="972" width="805" height="916" frameX="-35" frameY="-32" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Left0001" x="2100" y="879" width="738" height="878" frameX="-84" frameY="-52" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Left0002" x="524" y="1888" width="688" height="845" frameX="-118" frameY="-71" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Right0000" x="0" y="2761" width="951" height="671" frameX="-46" frameY="-235" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Right0001" x="951" y="2761" width="925" height="659" frameX="-58" frameY="-236" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Dundio Right0002" x="1876" y="2761" width="892" height="639" frameX="-71" frameY="-236" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

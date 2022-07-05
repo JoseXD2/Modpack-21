@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bevel_bambi.png"><SubTexture name="MARCELLO HEY!!0000" x="550" y="0" width="268" height="339" frameX="-93" frameY="-50" frameWidth="415" frameHeight="418" />
+<SubTexture name="MARCELLO HEY!!0001" x="0" y="0" width="277" height="347" frameX="-97" frameY="-48" frameWidth="415" frameHeight="418" />
+<SubTexture name="MARCELLO HEY!!0002" x="277" y="0" width="273" height="343" frameX="-102" frameY="-50" frameWidth="415" frameHeight="418" />
+</TextureAtlas>

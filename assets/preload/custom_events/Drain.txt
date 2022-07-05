@@ -1,0 +1,7 @@
+Drains Health
+Value 1 : How much health to drain, half health is 1.
+
+----------
+
+Drena Salud
+Valor 1: Cuánta salud a drenar, la mitad de la salud es 1.

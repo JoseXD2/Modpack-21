@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="butchatrix.png"><SubTexture name="DOWN0000" x="1113" y="2557" width="946" height="536" frameX="-42" frameY="-135" frameWidth="1161" frameHeight="672" />
+<SubTexture name="DOWN0001" x="0" y="2557" width="1113" height="550" frameX="-48" frameY="-121" frameWidth="1161" frameHeight="672" />
+<SubTexture name="IDLE0000" x="1150" y="1314" width="724" height="1091" frameX="-26" frameY="-17" frameWidth="786" frameHeight="1130" />
+<SubTexture name="LEFT0000" x="2059" y="2557" width="636" height="503" frameX="-52" frameY="-378" frameWidth="724" frameHeight="891" />
+<SubTexture name="LEFT0001" x="1874" y="1314" width="667" height="697" frameX="-21" frameY="-184" frameWidth="724" frameHeight="891" />
+<SubTexture name="RIGHT0000" x="923" y="0" width="1241" height="1311" frameX="-23" frameY="-17" frameWidth="1264" frameHeight="1390" />
+<SubTexture name="RIGHT0001" x="0" y="1314" width="1150" height="1243" frameX="-47" frameY="-85" frameWidth="1264" frameHeight="1390" />
+<SubTexture name="UP0000" x="0" y="0" width="923" height="1314" frameX="-8" frameY="-14" frameWidth="989" frameHeight="1355" />
+<SubTexture name="UP0001" x="2164" y="0" width="944" height="1260" frameX="-11" frameY="-78" frameWidth="989" frameHeight="1355" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stuff_3.png">
+<SubTexture name="Crowd 2 instance 10000" x="0" y="0" width="1353" height="290" frameX="0" frameY="0" frameWidth="1358" frameHeight="294" />
+<SubTexture name="Crowd 2 instance 10001" x="0" y="0" width="1353" height="290" frameX="0" frameY="4" frameWidth="1358" frameHeight="294" />
+<SubTexture name="Crowd 2 instance 10002" x="0" y="0" width="1353" height="290" frameX="0" frameY="8" frameWidth="1358" frameHeight="294" />
+<SubTexture name="Crowd 2 instance 10003" x="0" y="0" width="1353" height="290" frameX="0" frameY="12" frameWidth="1358" frameHeight="294" />
+<SubTexture name="Crowd 2 instance 10004" x="0" y="0" width="1353" height="290" frameX="0" frameY="14" frameWidth="1358" frameHeight="294" />
+<SubTexture name="Crowd 2 instance 10005" x="0" y="0" width="1353" height="290" frameX="0" frameY="14" frameWidth="1358" frameHeight="294" />
+<SubTexture name="Crowd 2 instance 10006" x="0" y="0" width="1353" height="290" frameX="0" frameY="14" frameWidth="1358" frameHeight="294" />
+<SubTexture name="Crowd 2 instance 10007" x="0" y="0" width="1353" height="290" frameX="0" frameY="14" frameWidth="1358" frameHeight="294" />
+</TextureAtlas>

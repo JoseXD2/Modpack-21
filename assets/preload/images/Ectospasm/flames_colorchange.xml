@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flames_colorchange.png">
+<SubTexture name="Symbol 1 Instanz 10000" x="0" y="940" width="985" height="462" frameX="0" frameY="-13" frameWidth="985" frameHeight="475" />
+<SubTexture name="Symbol 1 Instanz 10001" x="0" y="475" width="985" height="465" frameX="0" frameY="-10" frameWidth="985" frameHeight="475" />
+<SubTexture name="Symbol 1 Instanz 10002" x="0" y="0" width="985" height="475" frameX="0" frameY="0" frameWidth="985" frameHeight="475" />
+</TextureAtlas>

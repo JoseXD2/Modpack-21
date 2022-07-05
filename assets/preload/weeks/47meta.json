@@ -1,0 +1,32 @@
+{
+	"storyName": "MetaPhysical                           .",
+	"difficulties": "HARD",
+	"hideFreeplay": false,
+	"weekBackground": "meta",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"MEtaphysical",
+			"meta",
+			[
+				235,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "metamo"
+}

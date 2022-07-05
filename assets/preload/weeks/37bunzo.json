@@ -1,0 +1,32 @@
+{
+	"storyName": "funny bunny                            .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bunzo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Musical-memory",
+			"bunzo",
+			[
+				120,
+				120,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bunzoba"
+}

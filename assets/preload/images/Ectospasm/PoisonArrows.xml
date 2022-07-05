@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PoisonArrows.png"><SubTexture name="blue0000" x="691" y="0" width="164" height="243" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="blue0001" x="164" y="259" width="164" height="250" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="blue0002" x="691" y="243" width="164" height="239" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="purple0000" x="515" y="0" width="176" height="247" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="purple0001" x="164" y="0" width="176" height="254" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="purple0002" x="0" y="511" width="176" height="243" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="red0000" x="515" y="247" width="175" height="246" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="red0001" x="340" y="0" width="175" height="253" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="red0002" x="176" y="511" width="175" height="242" frameX="-2" frameY="-2" frameWidth="193" frameHeight="268" />
+<SubTexture name="green0000" x="0" y="259" width="164" height="252" frameX="-2" frameY="-3" frameWidth="193" frameHeight="268" />
+<SubTexture name="green0001" x="0" y="0" width="164" height="259" frameX="-2" frameY="-3" frameWidth="193" frameHeight="268" />
+<SubTexture name="green0002" x="328" y="259" width="164" height="248" frameX="-2" frameY="-3" frameWidth="193" frameHeight="268" />
+</TextureAtlas>

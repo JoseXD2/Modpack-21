@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tramber.png"><SubTexture name="Tramber Idle0000" x="0" y="1646" width="494" height="795" frameX="-258" frameY="-88" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Idle0001" x="1102" y="1646" width="494" height="792" frameX="-242" frameY="-83" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Idle0002" x="1596" y="1646" width="494" height="789" frameX="-228" frameY="-75" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Up0000" x="0" y="0" width="494" height="842" frameX="-229" frameY="-23" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Up0001" x="494" y="0" width="494" height="824" frameX="-229" frameY="-30" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Down0000" x="1148" y="842" width="628" height="801" frameX="-173" frameY="-50" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Down0001" x="494" y="1646" width="608" height="794" frameX="-184" frameY="-45" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Left0000" x="1475" y="0" width="667" height="816" frameX="-76" frameY="-58" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Left0001" x="0" y="842" width="662" height="804" frameX="-77" frameY="-65" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Right0000" x="0" y="2441" width="801" height="729" frameX="-78" frameY="-145" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Right0001" x="801" y="2441" width="792" height="719" frameX="-81" frameY="-149" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Shake0000" x="2142" y="0" width="486" height="801" frameX="-236" frameY="-74" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Shake0001" x="662" y="842" width="486" height="804" frameX="-229" frameY="-71" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Shake0002" x="988" y="0" width="487" height="817" frameX="-219" frameY="-58" frameWidth="912" frameHeight="912" />
+<SubTexture name="Tramber Fall0000" x="2628" y="0" width="580" height="782" frameX="-134" frameY="-79" frameWidth="912" frameHeight="912" />
+</TextureAtlas>

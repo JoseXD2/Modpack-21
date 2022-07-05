@@ -1,0 +1,1 @@
+So like value 1 is the length in seconds it fades

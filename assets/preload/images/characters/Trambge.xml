@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Trambge.png"><SubTexture name="Trambge Idle0000" x="1823" y="0" width="808" height="1300" frameX="-350" frameY="-131" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Up0000" x="0" y="0" width="931" height="1336" frameX="-393" frameY="-44" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Up0001" x="931" y="0" width="892" height="1317" frameX="-405" frameY="-63" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Down0000" x="1110" y="2627" width="1111" height="754" frameX="-219" frameY="-408" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Down0001" x="0" y="2627" width="1110" height="811" frameX="-220" frameY="-429" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Left0000" x="0" y="1336" width="815" height="1291" frameX="-393" frameY="-133" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Left0001" x="815" y="1336" width="757" height="1288" frameX="-413" frameY="-136" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Right0000" x="2631" y="0" width="1302" height="1245" frameX="-169" frameY="-156" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Trambge Right0001" x="2631" y="1245" width="1264" height="1235" frameX="-186" frameY="-166" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

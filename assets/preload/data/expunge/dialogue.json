@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wowee!!!! your really gooddy good!!!!! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "uhhhh.... thanks?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i mean i dont wanna brag but i w-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUSHY!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets gets ssssssssssserious!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "supernovae",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BYE FELISHA!!!!!     you gonna die!!!!!!!! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "mah name isnt falisha retard"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ugh"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bundix.png"><SubTexture name="Bundix Idle0000" x="0" y="798" width="680" height="736" frameX="-107" frameY="-54" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Idle0001" x="680" y="798" width="665" height="723" frameX="-113" frameY="-61" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Idle0002" x="1657" y="0" width="650" height="714" frameX="-120" frameY="-67" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Idle0003" x="1657" y="714" width="642" height="703" frameX="-122" frameY="-72" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Up0000" x="0" y="1534" width="711" height="714" frameX="-43" frameY="-131" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Up0001" x="711" y="1534" width="700" height="689" frameX="-49" frameY="-146" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Down0000" x="0" y="0" width="839" height="798" frameX="-45" frameY="-107" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Down0001" x="839" y="0" width="818" height="782" frameX="-56" frameY="-119" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Left0000" x="2307" y="666" width="563" height="596" frameX="-105" frameY="-179" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Left0001" x="2307" y="1262" width="550" height="588" frameX="-109" frameY="-180" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Right0000" x="1411" y="1534" width="799" height="680" frameX="-65" frameY="-39" frameWidth="912" frameHeight="912" />
+<SubTexture name="Bundix Right0001" x="2307" y="0" width="784" height="666" frameX="-71" frameY="-46" frameWidth="912" frameHeight="912" />
+</TextureAtlas>

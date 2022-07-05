@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Vortex.png"><SubTexture name="Vortex0000" x="0" y="449" width="745" height="435" frameX="0" frameY="0" frameWidth="766" frameHeight="449" />
+<SubTexture name="Vortex0001" x="0" y="884" width="717" height="420" frameX="-14" frameY="0" frameWidth="751" frameHeight="435" />
+<SubTexture name="Vortex0002" x="0" y="0" width="723" height="449" frameX="-2" frameY="-1" frameWidth="726" frameHeight="459" />
+<SubTexture name="Vortex0003" x="723" y="0" width="723" height="441" frameX="-3" frameY="-1" frameWidth="727" frameHeight="446" />
+</TextureAtlas>

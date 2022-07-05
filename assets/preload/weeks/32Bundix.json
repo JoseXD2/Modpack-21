@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"Recycle-bin",
+			"bundix",
+			[
+				0,
+				120,
+				255
+			]
+		],
+		[
+			"Saucer",
+			"bombalunio",
+			[
+				0,
+				120,
+				0
+			]
+		],
+		[
+			"Double-Sided",
+			"doublesided",
+			[
+				255,
+				235,
+				235
+			]
+		],
+		[
+			"Problem",
+			"tramber",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Covered",
+			"trambge",
+			[
+				125,
+				125,
+				125
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bundix",
+	"difficulties": "LOL",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Best songs Diamond edition                   .",
+	"weekName": "diamondbundix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

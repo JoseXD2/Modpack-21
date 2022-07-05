@@ -1,0 +1,31 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "wrath",
+		"player1": "bfwrath",
+		"player2": "retro",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"event",
+						"",
+						""
+					]
+				],
+				null,
+				"poision"
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfgoth",
+		"bpm": 212,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ectospasm"
+	}
+}

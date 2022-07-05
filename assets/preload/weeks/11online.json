@@ -1,0 +1,50 @@
+{
+	"storyName": "Vs ONline. Challenges                       .",
+	"difficulties": "Hard, Fucked",
+	"hideFreeplay": false,
+	"weekBackground": "online",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Accelerant",
+			"hank",
+			[
+				20,
+				20,
+				40
+			]
+		],
+		[
+			"Challengedd",
+			"edd",
+			[
+				0,
+				120,
+				40
+			]
+		],
+		[
+			"Unloaded",
+			"uberkid",
+			[
+				0,
+				40,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "CHallengesONlinenochkaru"
+}

@@ -1,0 +1,61 @@
+{
+	"animations" : [
+		{
+			"offsets" : [ 0, 0 ],
+			"loop" : false,
+			"fps" : 24,
+			"anim" : "fall",
+			"indices" : [],
+			"name" : "phones fall"
+		},
+		{
+			"offsets" : [ -18, -44 ],
+			"indices" : [],
+			"fps" : 24,
+			"anim" : "singLEFT",
+			"loop" : false,
+			"name" : "sad left"
+		},
+		{
+			"offsets" : [ 0, 0 ],
+			"indices" : [],
+			"fps" : 24,
+			"anim" : "singDOWN",
+			"loop" : false,
+			"name" : "sad down"
+		},
+		{
+			"offsets" : [ 0, 0 ],
+			"indices" : [],
+			"fps" : 24,
+			"anim" : "singUP",
+			"loop" : false,
+			"name" : "sad up"
+		},
+		{
+			"offsets" : [ 0, 0 ],
+			"indices" : [],
+			"fps" : 24,
+			"anim" : "singRIGHT",
+			"loop" : false,
+			"name" : "sad right"
+		},
+		{
+			"offsets" : [ 0, 0 ],
+			"indices" : [ 17, 17 ],
+			"fps" : 24,
+			"anim" : "idle",
+			"loop" : true,
+			"name" : "phones fall"
+		}
+	],
+	"no_antialiasing" : true,
+	"image" : "characters/bandu",
+	"position" : [ 0, 0 ],
+	"healthicon" : "junkers",
+	"flip_x" : false,
+	"healthbar_colors" : [ 58, 255, 68 ],
+	"camera_position" : [ 0, 0 ],
+	"sing_duration" : 4,
+	"scale" : 1
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SakuBop.png"><SubTexture name="SakuBop0000" x="0" y="0" width="248" height="346" frameX="-26" frameY="-14" frameWidth="297" frameHeight="369" />
+<SubTexture name="SakuBop0001" x="0" y="0" width="248" height="346" frameX="-26" frameY="-8" frameWidth="297" frameHeight="369" />
+<SubTexture name="SakuBop0002" x="0" y="0" width="248" height="346" frameX="-26" frameY="-4" frameWidth="297" frameHeight="369" />
+<SubTexture name="SakuBop0003" x="0" y="0" width="248" height="346" frameX="-26" frameY="0" frameWidth="297" frameHeight="369" />
+<SubTexture name="SakuBop0004" x="0" y="0" width="248" height="346" frameX="-26" frameY="0" frameWidth="297" frameHeight="369" />
+<SubTexture name="SakuBop0005" x="0" y="0" width="248" height="346" frameX="-26" frameY="0" frameWidth="297" frameHeight="369" />
+</TextureAtlas>

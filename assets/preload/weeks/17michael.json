@@ -1,0 +1,50 @@
+{
+	"storyName": "Michael                             .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "michael",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Meow",
+			"michael",
+			[
+				120,
+				100,
+				40
+			]
+		],
+		[
+			"rawr",
+			"michael",
+			[
+				120,
+				100,
+				40
+			]
+		],
+		[
+			"angy",
+			"michael",
+			[
+				120,
+				120,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "michaelcool"
+}

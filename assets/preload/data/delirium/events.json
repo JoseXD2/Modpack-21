@@ -1,0 +1,105 @@
+{
+	"song": {
+		"speed": 2.87978101377439,
+		"stage": "cone",
+		"player1": "bf",
+		"player2": "conbi",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"5"
+					]
+				]
+			],
+			[
+				24458.5987261147,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73375.7961783439,
+				[
+					[
+						"noteskinchange",
+						"oppositionbsidenote",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"0.5"
+					]
+				],
+				null,
+				""
+			],
+			[
+				97834.3949044587,
+				[
+					[
+						"noteskinchange",
+						"NOTE_assets_3D",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				],
+				null,
+				""
+			],
+			[
+				122292.993630573,
+				[
+					[
+						"noteskinchange",
+						"oppositionbsidenote",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				146751.592356688,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					],
+					[
+						"noteskinchange",
+						"NOTE_assets_3D",
+						""
+					]
+				],
+				null,
+				""
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 157,
+		"arrowSkin": "NOTE_assets_3D",
+		"needsVoices": true,
+		"song": "delirium"
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Exe_TailsSpikeAnimated.png">
+<SubTexture name="Tails Spike Animated instance 10000" x="0" y="0" width="198" height="591" frameX="-16" frameY="-18" frameWidth="237" frameHeight="623" />
+<SubTexture name="Tails Spike Animated instance 10001" x="198" y="0" width="195" height="591" frameX="-19" frameY="-18" frameWidth="237" frameHeight="623" />
+<SubTexture name="Tails Spike Animated instance 10002" x="393" y="0" width="200" height="591" frameX="-14" frameY="-18" frameWidth="237" frameHeight="623" />
+<SubTexture name="Tails Spike Animated instance 10003" x="593" y="0" width="198" height="591" frameX="-16" frameY="-18" frameWidth="237" frameHeight="623" />
+<SubTexture name="Tails Spike Animated instance 10004" x="791" y="0" width="200" height="591" frameX="-19" frameY="-18" frameWidth="237" frameHeight="623" />
+</TextureAtlas>

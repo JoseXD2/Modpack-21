@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bendunged",
+	"position": [
+		100,
+		-320
+	],
+	"healthicon": "bendunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		120,
+		0
+	],
+	"camera_position": [
+		-80,
+		-195
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

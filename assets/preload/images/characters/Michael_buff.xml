@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Michael_buff.png"><SubTexture name="micheal_down0000" x="1832" y="2427" width="1088" height="721" frameX="-38" frameY="-102" frameWidth="1143" frameHeight="839" />
+<SubTexture name="micheal_down0001" x="841" y="2427" width="991" height="739" frameX="-97" frameY="-78" frameWidth="1143" frameHeight="839" />
+<SubTexture name="micheal_idle0000" x="2040" y="1432" width="862" height="952" frameX="-4" frameY="-18" frameWidth="878" frameHeight="973" />
+<SubTexture name="micheal_idle0001" x="3200" y="946" width="826" height="941" frameX="-1" frameY="-29" frameWidth="878" frameHeight="973" />
+<SubTexture name="micheal_idle0002" x="0" y="2427" width="841" height="941" frameX="-6" frameY="-29" frameWidth="878" frameHeight="973" />
+<SubTexture name="micheal_idle0003" x="3200" y="0" width="856" height="946" frameX="-4" frameY="-24" frameWidth="878" frameHeight="973" />
+<SubTexture name="micheal_left0000" x="1092" y="1432" width="948" height="991" frameX="-17" frameY="-32" frameWidth="984" frameHeight="1041" />
+<SubTexture name="micheal_left0001" x="1390" y="0" width="890" height="1013" frameX="-72" frameY="-13" frameWidth="984" frameHeight="1041" />
+<SubTexture name="micheal_right0000" x="0" y="1432" width="1092" height="995" frameX="-26" frameY="-63" frameWidth="1120" frameHeight="1059" />
+<SubTexture name="micheal_right0001" x="2280" y="0" width="920" height="1010" frameX="-103" frameY="-48" frameWidth="1120" frameHeight="1059" />
+<SubTexture name="micheal_up0000" x="0" y="0" width="685" height="1432" frameX="-65" frameY="-8" frameWidth="802" frameHeight="1451" />
+<SubTexture name="micheal_up0001" x="685" y="0" width="705" height="1378" frameX="-49" frameY="-61" frameWidth="802" frameHeight="1451" />
+</TextureAtlas>

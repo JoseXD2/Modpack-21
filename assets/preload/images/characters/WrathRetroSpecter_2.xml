@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WrathRetroSpecter_2.png"><SubTexture name="Retro DOWN0000" x="0" y="2009" width="1060" height="869" frameX="-76" frameY="-274" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro DOWN0001" x="2221" y="0" width="1040" height="874" frameX="-87" frameY="-275" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro DOWN0002" x="2221" y="0" width="1040" height="874" frameX="-87" frameY="-279" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro DOWN0003" x="2221" y="0" width="1040" height="874" frameX="-87" frameY="-283" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro DOWN0004" x="2221" y="0" width="1040" height="874" frameX="-87" frameY="-288" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro IDLE0000" x="2221" y="874" width="1034" height="872" frameX="-10" frameY="-31" frameWidth="1058" frameHeight="904" />
+<SubTexture name="Retro LEFT0000" x="2118" y="2009" width="1067" height="834" frameX="-14" frameY="-248" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro LEFT0001" x="1060" y="2009" width="1058" height="843" frameX="-19" frameY="-239" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro LEFT0002" x="1060" y="2009" width="1058" height="843" frameX="-13" frameY="-239" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro LEFT0003" x="1060" y="2009" width="1058" height="843" frameX="-8" frameY="-239" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro LEFT0004" x="1060" y="2009" width="1058" height="843" frameX="-3" frameY="-239" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro RIGHT0000" x="1049" y="1068" width="1052" height="938" frameX="0" frameY="-3" frameWidth="1052" frameHeight="941" />
+<SubTexture name="Retro RIGHT0001" x="0" y="1068" width="1049" height="941" frameX="-2" frameY="0" frameWidth="1052" frameHeight="941" />
+<SubTexture name="Retro RIGHT0002" x="1049" y="1068" width="1052" height="938" frameX="-4" frameY="-3" frameWidth="1052" frameHeight="941" />
+<SubTexture name="Retro RIGHT0003" x="0" y="1068" width="1049" height="941" frameX="-6" frameY="0" frameWidth="1052" frameHeight="941" />
+<SubTexture name="Retro RIGHT0004" x="1049" y="1068" width="1052" height="938" frameX="-12" frameY="-3" frameWidth="1052" frameHeight="941" />
+<SubTexture name="Retro RIGHT0005" x="0" y="1068" width="1049" height="941" frameX="-16" frameY="0" frameWidth="1052" frameHeight="941" />
+<SubTexture name="Retro UP0000" x="0" y="0" width="1105" height="1068" frameX="-9" frameY="0" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro UP0001" x="1105" y="0" width="1116" height="1063" frameX="0" frameY="-4" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro UP0002" x="1105" y="0" width="1116" height="1063" frameX="0" frameY="-1" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro UP0003" x="1105" y="0" width="1116" height="1063" frameX="0" frameY="1" frameWidth="1159" frameHeight="1148" />
+<SubTexture name="Retro UP0004" x="1105" y="0" width="1116" height="1063" frameX="0" frameY="4" frameWidth="1159" frameHeight="1148" />
+</TextureAtlas>

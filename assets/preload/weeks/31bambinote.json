@@ -1,0 +1,59 @@
+{
+	"storyName": "Bambi party!                          .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bambinote",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Home",
+			"dave",
+			[
+				0,
+				20,
+				175
+			]
+		],
+		[
+			"Signalwave",
+			"super",
+			[
+				0,
+				80,
+				0
+			]
+		],
+		[
+			"expunge",
+			"super",
+			[
+				0,
+				60,
+				0
+			]
+		],
+		[
+			"composure",
+			"davey",
+			[
+				0,
+				0,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "partyer"
+}

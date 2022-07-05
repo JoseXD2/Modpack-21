@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon-manifestexanim.png"><SubTexture name="ManifestAngryIcon0000" x="0" y="0" width="137" height="137" frameX="0" frameY="-1" frameWidth="139" frameHeight="138" />
+<SubTexture name="ManifestAngryIcon0001" x="0" y="0" width="137" height="137" frameX="1" frameY="2" frameWidth="139" frameHeight="138" />
+<SubTexture name="ManifestAngryIcon0002" x="0" y="0" width="137" height="137" frameX="-2" frameY="-1" frameWidth="139" frameHeight="138" />
+<SubTexture name="ManifestAngryIcon0003" x="0" y="0" width="137" height="137" frameX="2" frameY="-1" frameWidth="139" frameHeight="138" />
+<SubTexture name="ManifestNormalIcon0000" x="137" y="0" width="137" height="137" frameX="-1" frameY="0" frameWidth="139" frameHeight="138" />
+<SubTexture name="ManifestNormalIcon0001" x="137" y="0" width="137" height="137" frameX="0" frameY="1" frameWidth="139" frameHeight="138" />
+<SubTexture name="ManifestNormalIcon0002" x="137" y="0" width="137" height="137" frameX="-2" frameY="-1" frameWidth="139" frameHeight="138" />
+<SubTexture name="ManifestNormalIcon0003" x="137" y="0" width="137" height="137" frameX="0" frameY="-1" frameWidth="139" frameHeight="138" />
+</TextureAtlas>

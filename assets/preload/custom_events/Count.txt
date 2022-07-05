@@ -1,0 +1,3 @@
+Value 1: Duration
+------------------
+Value 2: 1 = UNO, 2 = DOS, 3 = TRES, 4 = CUATRO

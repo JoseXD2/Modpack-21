@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mario.png">
+<SubTexture name="swim0000" x="0" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="160" frameHeight="91" />
+<SubTexture name="swim0001" x="24" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="160" frameHeight="91" />
+<SubTexture name="swim0002" x="48" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="160" frameHeight="91" />
+<SubTexture name="swim0003" x="72" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="160" frameHeight="91" />
+<SubTexture name="swim0004" x="96" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="160" frameHeight="91" />
+<SubTexture name="swim0005" x="120" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="160" frameHeight="91" />
+</TextureAtlas>

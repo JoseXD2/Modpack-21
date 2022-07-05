@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="front.png"><SubTexture name="FrontDaveDown0000" x="0" y="0" width="1299" height="714" frameX="0" frameY="0" frameWidth="1301" frameHeight="714" />
+<SubTexture name="FrontDaveDown0001" x="0" y="1428" width="1296" height="713" frameX="-3" frameY="-1" frameWidth="1301" frameHeight="714" />
+<SubTexture name="FrontDaveIdle0000" x="0" y="2141" width="1285" height="709" frameX="-12" frameY="-5" frameWidth="1301" frameHeight="714" />
+<SubTexture name="FrontDaveIdle0001" x="1299" y="0" width="1287" height="714" frameX="-12" frameY="0" frameWidth="1301" frameHeight="714" />
+<SubTexture name="FrontDaveLeft0000" x="0" y="714" width="1314" height="714" frameX="0" frameY="0" frameWidth="1316" frameHeight="714" />
+<SubTexture name="FrontDaveLeft0001" x="2586" y="0" width="1303" height="713" frameX="-11" frameY="-1" frameWidth="1316" frameHeight="714" />
+<SubTexture name="FrontDaveRight0000" x="1314" y="714" width="1262" height="714" frameX="-12" frameY="0" frameWidth="1276" frameHeight="714" />
+<SubTexture name="FrontDaveRight0001" x="2586" y="713" width="1274" height="713" frameX="0" frameY="-1" frameWidth="1276" frameHeight="714" />
+<SubTexture name="FrontDaveUp0000" x="2586" y="1426" width="1281" height="713" frameX="-1" frameY="0" frameWidth="1284" frameHeight="714" />
+<SubTexture name="FrontDaveUp0001" x="1296" y="1428" width="1282" height="713" frameX="0" frameY="-1" frameWidth="1284" frameHeight="714" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				454,
+				691
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": true,
+			"name": "Ripple Idle"
+		},
+		{
+			"offsets": [
+				471,
+				674
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Ripple Up"
+		},
+		{
+			"offsets": [
+				460,
+				670
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Ripple Left"
+		},
+		{
+			"offsets": [
+				530,
+				725
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Ripple Right"
+		},
+		{
+			"offsets": [
+				460,
+				666
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Ripple Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ripple-bambi",
+	"position": [
+		-5,
+		350
+	],
+	"healthicon": "Ripple",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		-873
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

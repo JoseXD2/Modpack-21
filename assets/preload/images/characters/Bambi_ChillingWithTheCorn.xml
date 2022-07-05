@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bambi_ChillingWithTheCorn.png"><SubTexture name="cool0000" x="0" y="0" width="247" height="281" frameX="-6" frameY="0" frameWidth="253" frameHeight="281" />
+<SubTexture name="cool0001" x="247" y="0" width="248" height="278" frameX="-4" frameY="-3" frameWidth="253" frameHeight="281" />
+<SubTexture name="cool0002" x="495" y="0" width="251" height="275" frameX="-1" frameY="-6" frameWidth="253" frameHeight="281" />
+<SubTexture name="cool0003" x="0" y="281" width="252" height="271" frameX="0" frameY="-10" frameWidth="253" frameHeight="281" />
+</TextureAtlas>

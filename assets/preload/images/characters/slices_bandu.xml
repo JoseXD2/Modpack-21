@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slices_bandu.png"><SubTexture name="DOWN0000" x="504" y="0" width="560" height="501" frameX="-18" frameY="-83" frameWidth="622" frameHeight="595" />
+<SubTexture name="IDLE0000" x="452" y="521" width="455" height="456" frameX="-79" frameY="-72" frameWidth="622" frameHeight="595" />
+<SubTexture name="LEFT0000" x="0" y="521" width="452" height="469" frameX="0" frameY="-58" frameWidth="622" frameHeight="595" />
+<SubTexture name="RIGHT0000" x="1064" y="0" width="385" height="447" frameX="-192" frameY="-84" frameWidth="622" frameHeight="595" />
+<SubTexture name="UP0000" x="0" y="0" width="504" height="521" frameX="-55" frameY="0" frameWidth="622" frameHeight="595" />
+</TextureAtlas>

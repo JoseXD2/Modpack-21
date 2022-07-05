@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "irritated",
+			"text": "Okay, that wasn't bad! But it was just beginner's luck! You can't keep up with our next songs!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "normal",
+			"text": "Yeah! We just went easy on you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "grimace",
+			"text": "If ya say so.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  },
+	  {
+			"expression": "angry",
+			"text": "Next song!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  }
+	]
+}

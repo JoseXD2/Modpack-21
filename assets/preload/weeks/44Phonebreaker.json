@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Triple-Phonebreaker",
+			"tb",
+			[
+				0,
+				40,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "phonebreaker",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Triple Phonebreaker                       .",
+	"weekName": "phonebreakc",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

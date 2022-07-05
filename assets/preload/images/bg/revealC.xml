@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="revealC.png"><SubTexture name="E0000" x="0" y="0" width="437" height="851" frameX="0" frameY="-1" frameWidth="437" frameHeight="852" />
+<SubTexture name="B0000" x="1138" y="0" width="327" height="498" frameX="-94" frameY="-80" frameWidth="516" frameHeight="710" />
+<SubTexture name="C0000" x="793" y="0" width="345" height="554" frameX="-93" frameY="-25" frameWidth="516" frameHeight="710" />
+<SubTexture name="D0000" x="437" y="0" width="356" height="609" frameX="-92" frameY="-11" frameWidth="516" frameHeight="710" />
+<SubTexture name="A0000" x="0" y="851" width="317" height="435" frameX="0" frameY="-1" frameWidth="317" frameHeight="436" />
+</TextureAtlas>

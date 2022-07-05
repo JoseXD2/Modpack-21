@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfhotdog.png">
+<SubTexture name="girlfriend dance idle0000" x="0" y="325" width="226" height="316" frameX="-2" frameY="-11" frameWidth="242" frameHeight="329" />
+<SubTexture name="girlfriend dance idle0001" x="232" y="0" width="224" height="318" frameX="-4" frameY="-9" frameWidth="242" frameHeight="329" />
+<SubTexture name="girlfriend dance idle0002" x="0" y="0" width="232" height="325" frameX="-7" frameY="-2" frameWidth="242" frameHeight="329" />
+<SubTexture name="girlfriend dance idle0003" x="456" y="0" width="232" height="318" frameX="-7" frameY="-9" frameWidth="242" frameHeight="329" />
+<SubTexture name="girlfriend dance idle0004" x="0" y="0" width="232" height="325" frameX="-7" frameY="-2" frameWidth="242" frameHeight="329" />
+<SubTexture name="girlfriend walk0000" x="688" y="0" width="234" height="294" frameX="-2" frameY="-2" frameWidth="238" frameHeight="311" />
+<SubTexture name="girlfriend walk0001" x="226" y="325" width="232" height="307" frameX="-4" frameY="-2" frameWidth="238" frameHeight="311" />
+</TextureAtlas>

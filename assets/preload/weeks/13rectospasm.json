@@ -1,0 +1,32 @@
+{
+	"storyName": "i just kill you                         .",
+	"difficulties": "Hell",
+	"hideFreeplay": false,
+	"weekBackground": "rectospasm",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ectospasm",
+			"berserk",
+			[
+				0,
+				100,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "rectospasm"
+}

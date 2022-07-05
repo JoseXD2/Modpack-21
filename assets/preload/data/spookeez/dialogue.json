@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"expression": "grimace",
+			"text": "The raveyard. This is gonna be easy game, don't ya think, GF?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "blush",
+			"text": "Yeah! Whoever we're going against I'm sure you'll destroy them, babe.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Hey you kids! We're here for the rap battle against the Spookeez, we heard they were playing here in a bit. You know where they are?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "irritated",
+			"text": "That would be us! Can't you recognize us you dickweed? We were just about to head on stage!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "normal",
+			"text": "Yeah, dickweed!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "sweat",
+			"text": "(Dumbfounded)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  },
+	  {
+			"expression": "angry",
+			"text": "You got some sharp tongues for kids your age.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  },
+	  {
+			"expression": "point",
+			"text": "Yeah, so what!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "normal",
+			"text": "Yeah! So what?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "sweat",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  },
+	  {
+			"expression": "scared",
+			"text": "(Whispering) Skid, didn't he say something about a battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "grimace",
+			"text": "Well at least one of you kids listened!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  },
+	  {
+			"expression": "irritated",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "angry",
+			"text": "If you want the battle, then you came to the right place! We're gonna beat you so hard that you're gonna be 6 feet under!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "normal",
+			"text": "Yeah! This'll be easy!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "normal",
+			"text": "(Whispering) Skid we still need to get on stage.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "irritated",
+			"text": "Oh yeah.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "point",
+			"text": "AHEM! We still need to give the audience a performance, they came here for a reason! To hear us play!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+	  },
+	  {
+			"expression": "grimace",
+			"text": "Then let's give the audience a show!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+	  }
+	]
+}
